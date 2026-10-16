@@ -1,0 +1,256 @@
+{
+  "themen": [
+    {
+      "id": "geschichte",
+      "titel": "Die Geschichte der antiken Stadt",
+      "untertitel": "Von der Gründung 366 v. Chr. bis zu den Erdbeben und der Ausgrabung",
+      "abschnitte": [
+        {
+          "ueberschrift": "Eine Stadt wird gegründet",
+          "absaetze": [
+            "Die Stadt, durch deren Reste Sie gehen, ist eine Neugründung. Bis ins 4. Jahrhundert v. Chr. lag der wichtigste Ort der Insel im Südwesten, in Astypalaia bei Kefalos. 366/365 v. Chr. schlossen sich die Gemeinden der Insel zu einem einzigen Staat zusammen, die Griechen nennen das Synoikismos, und gründeten eine neue Hauptstadt an der Nordostspitze.",
+            "Der Ort war gut gewählt: ein geschützter Naturhafen, gegenüber die kleinasiatische Küste mit Halikarnassos, dem heutigen Bodrum, und mitten auf dem Seeweg zwischen Ägäis und östlichem Mittelmeer. Die Stadt wurde nach einem Plan angelegt, mit Straßen im rechten Winkel, wie es seit dem Architekten Hippodamos von Milet üblich war. Diesem Raster folgen die Straßen, die Sie in der Westzone sehen, bis in die römische Zeit."
+          ]
+        },
+        {
+          "ueberschrift": "Hellenistische Blüte",
+          "absaetze": [
+            "Nach dem Tod Alexanders des Großen 323 v. Chr. stritten seine Generäle um das Reich. Kos geriet in den Einflussbereich der Ptolemäer, der Herrscher Ägyptens. Ptolemaios I. nahm die Insel 310/309 v. Chr., und sein Sohn, der spätere König Ptolemaios II. Philadelphos, wurde 309/308 v. Chr. auf Kos geboren.",
+            "Die Insel war in dieser Zeit ein Ort der Bildung. Der koische Dichter und Gelehrte Philitas galt als Lehrer des jungen Prinzen und als Wegbereiter der hellenistischen Dichtung, die dann in Alexandria aufblühte. Dazu kam der Ruhm der Ärzteschule in der Nachfolge des Hippokrates und das Heiligtum des Asklepios vor der Stadt. In diese Blütezeit, ins 2. Jahrhundert v. Chr., gehören das Gymnasion mit dem Xystos, das Stadion und der Dionysos-Altar."
+          ]
+        },
+        {
+          "ueberschrift": "Unter Rom",
+          "absaetze": [
+            "Im 2. und 1. Jahrhundert v. Chr. wuchs der Einfluss Roms, und Kos wurde Teil des Römischen Reiches. Die Stadt blieb griechisch in Sprache und Lebensart, bekam aber römische Bauten: Thermen, gepflasterte Straßen mit Säulenhallen, das Odeon, Häuser mit Mosaikböden.",
+            "Ein Koer machte in Rom Karriere: Gaius Stertinius Xenophon, Leibarzt des Kaisers Claudius. Auf seine Fürsprache hin gewährte Claudius der Insel im Jahr 53 n. Chr. Steuerfreiheit; der römische Historiker Tacitus berichtet davon. Nach einem schweren Erdbeben im Jahr 142 n. Chr. half Kaiser Antoninus Pius beim Wiederaufbau. Vieles, was Sie heute sehen, stammt aus dieser Erneuerung im 2. und 3. Jahrhundert n. Chr."
+          ]
+        },
+        {
+          "ueberschrift": "Erdbeben, Kirchen, Vergessen",
+          "absaetze": [
+            "Kos liegt in einer Erdbebenzone. Das Beben von 469 n. Chr. brachte den Xystos des Gymnasions zum Einsturz und zerstörte Thermen und Latrine. Ein weiteres folgte 554. Auf den Trümmern der Thermen entstanden frühchristliche Kirchen; Kos war Bischofssitz.",
+            "Im 7. Jahrhundert, nach den arabischen Angriffen in der Ägäis, schrumpfte die Stadt. Die große Agora am Hafen wurde aufgegeben und zu Ackerland. Die antiken Bauten dienten als Steinbruch, zuletzt für das Kastell der Johanniter am Hafen. Über der Westzone lag jahrhundertelang ein Wohnviertel."
+          ]
+        },
+        {
+          "ueberschrift": "1933: Ein Erdbeben legt die Antike frei",
+          "absaetze": [
+            "Am 23. April 1933 zerstörte ein Erdbeben weite Teile von Kos-Stadt. Die Insel gehörte damals zu Italien. Die italienischen Archäologen Luciano Laurenzi und Luigi Morricone nutzten die Zerstörung: Statt das alte Viertel wieder aufzubauen, gruben sie großflächig. So entstand zwischen 1936 und 1940 die Westliche Ausgrabungszone, in der Sie stehen.",
+            "Die Italiener richteten Säulen wieder auf und bauten ganze Häuser nach, etwa die Casa Romana. Manches davon würde man heute vorsichtiger machen. Für Besucher hat es einen Vorteil: Man kann sich hier besser als an vielen anderen Orten vorstellen, wie eine griechisch-römische Stadt aussah."
+          ]
+        }
+      ],
+      "quellen": [
+        "discoveringkos.com, „Ancient city of Kos“ und „The Western Archaeological Area“ (P. Gkikas 2019, nach Grigoriadou/Hatzivasileiou), abgerufen 17.10.2026 (Synoikismos 366/5 v. Chr., Grabungen 1933–1940, Erdbeben 469)",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Datierungen, Grabungsgeschichte, Erdbeben 142 n. Chr.)",
+        "Wikipedia (en), „Philitas of Cos“; Britannica, „Philitas of Cos“, abgerufen 17.10.2026 (Ptolemaios I. nimmt Kos 310 v. Chr., Geburt Ptolemaios' II. 308 v. Chr. auf Kos; der Asklepieion-Begleiter nennt 309/308, Philitas als Lehrer)",
+        "worldhistory.org, „Kos“, abgerufen 17.10.2026 (Xenophon und Claudius, Steuerfreiheit 53 n. Chr., Erdbeben 142, 469 und 554 n. Chr., Antoninus Pius); Grundlage: Tacitus, Annalen 12,61",
+        "Politecnico di Bari (iris.poliba.it), Studien zur Agora von Kos, abgerufen 17.10.2026 (Aufgabe der Agora nach Mitte des 7. Jh.)"
+      ]
+    },
+    {
+      "id": "agora",
+      "titel": "Auf der Agora",
+      "untertitel": "Markt, Politik und Gericht am Hafen",
+      "abschnitte": [
+        {
+          "ueberschrift": "Das Herz der Stadt",
+          "absaetze": [
+            "Die Agora war der Mittelpunkt jeder griechischen Stadt: Marktplatz, Treffpunkt und Verwaltungszentrum zugleich. Hier wurde gehandelt, hier hingen die Beschlüsse der Bürgerschaft öffentlich aus, hier standen die Ehrenstatuen verdienter Bürger, Altäre und kleine Tempel. Säulenhallen, die Stoen, säumten den Platz und gaben Schatten im Sommer und Schutz bei Regen.",
+            "Die Agora von Kos lag nicht hier in der Westzone, sondern gut einen halben Kilometer nordöstlich, direkt am Hafen. Sie war eine der größten der griechischen Welt: Der Hauptplatz maß etwa 162 mal 82 Meter. Ihre Reste können Sie zwischen dem Kastell und der Eleftherias-Platz frei besichtigen, wenn Sie Zeit haben."
+          ]
+        },
+        {
+          "ueberschrift": "Ein Tag auf dem Markt",
+          "absaetze": [
+            "Am Morgen füllte sich der Platz. Bauern aus dem Umland brachten Gemüse, Oliven, Käse und Wein, Fischer ihren Fang, Händler Waren, die im Hafen angekommen waren. In den Läden unter den Säulenhallen arbeiteten Handwerker und Händler. Geldwechsler tauschten fremde Münzen, denn im Hafen trafen Kaufleute aus vielen Städten zusammen.",
+            "Damit niemand betrogen wurde, gab es in griechischen Städten Marktaufseher, die Agoranomen. Sie prüften Waren, Gewichte und Waagen, setzten für manche Güter Preise fest und konnten Strafen verhängen. Ob es auf Kos genau so geregelt war, ist im Einzelnen nicht überliefert; das Amt war in den griechischen Städten aber verbreitet."
+          ]
+        },
+        {
+          "ueberschrift": "Politik unter freiem Himmel",
+          "absaetze": [
+            "Kos war eine Polis, ein Stadtstaat mit Volksversammlung, Rat und gewählten Beamten. Viele Entscheidungen fielen in eigenen Versammlungsbauten, die wichtigsten Ergebnisse aber wurden auf der Agora öffentlich gemacht: in Stein gemeißelte Beschlüsse, Ehrungen für Wohltäter, Verträge mit anderen Städten. Hunderte solcher Inschriften aus Kos sind erhalten und heute eine Hauptquelle für das Leben der Stadt.",
+            "Im Odeon am Rand der Westzone tagte nach den Inschriften eine öffentliche Körperschaft, die verdiente Bürger ehrte. Auch dort wurde also Politik gemacht, nur unter einem Dach."
+          ]
+        }
+      ],
+      "bild": {
+        "src": "img/fotos/agora.jpg",
+        "alt": "Säulen und Mauerreste der antiken Agora von Kos zwischen Bäumen",
+        "credit": "Ad Meskens (Wikimedia Commons), 2013",
+        "lizenz": "CC BY-SA 3.0",
+        "link": "https://commons.wikimedia.org/wiki/File:Kos_Agora_02.JPG",
+        "basis": null
+      },
+      "quellen": [
+        "Wikipedia (de), „Agora“, abgerufen 17.10.2026 (Funktionen und Bauten der griechischen Agora)",
+        "Wikipedia (en), „Agoranomos“, abgerufen 17.10.2026 (Aufgaben der Marktaufseher)",
+        "aegeanislands.gr, „Kos: The port and ancient agora“, abgerufen 17.10.2026 (Hauptplatz ca. 162 × 82 m)",
+        "kos.gr, „Roman Odeon“, abgerufen 17.10.2026 (Nutzung des Odeons nach Inschriften)"
+      ]
+    },
+    {
+      "id": "goetter",
+      "titel": "Götter und Tempel",
+      "untertitel": "Aphrodite am Hafen, Dionysos, Herakles und Asklepios",
+      "abschnitte": [
+        {
+          "ueberschrift": "Religion im Alltag",
+          "absaetze": [
+            "Ein griechischer Tempel war kein Versammlungsraum für Gläubige wie eine Kirche. Er war das Haus der Gottheit und beherbergte ihr Kultbild. Gefeiert wurde draußen, am Altar vor dem Tempel: Dort brachte man Opfer dar, Tiere, Kuchen, Wein oder Weihrauch, und danach wurde das Fleisch oft gemeinsam gegessen. Ein großes Fest war für viele Menschen eine der seltenen Gelegenheiten, Fleisch zu essen.",
+            "Religion durchdrang das ganze Leben der Stadt. Jede Versammlung begann mit einem Opfer, jedes Gymnasion hatte seine Schutzgötter, meist Hermes und Herakles, und Wettkämpfe wurden zu Ehren von Göttern ausgetragen."
+          ]
+        },
+        {
+          "ueberschrift": "Aphrodite am Hafen",
+          "absaetze": [
+            "Wer mit dem Schiff nach Kos kam, sah als Erstes ein Heiligtum der Aphrodite am Hafeneingang. Es bestand aus zwei gleichen Tempeln mit Altären, einem für Aphrodite Pandemos, die Göttin der ganzen Bürgerschaft, und einem für Aphrodite Pontia, die Göttin des Meeres und der Seefahrt. Eine Inschrift aus der Zeit um 196/195 v. Chr. regelt den Kult. Wann genau die Tempel gebaut wurden, ist umstritten.",
+            "Das Erdbeben von 469 n. Chr. zerstörte das Heiligtum. Seine Steine wurden später für Bäder und eine Kirche wiederverwendet. Einige Säulentrommeln sind im Gelände der Agora noch zu sehen."
+          ]
+        },
+        {
+          "ueberschrift": "Dionysos, Herakles, Asklepios",
+          "absaetze": [
+            "Dionysos, der Gott des Weins und des Theaters, hatte einen großen Altar und einen Tempel nahe der heutigen Casa Romana, beide aus dem 2. Jahrhundert v. Chr. Sie können ihn als Zusatzstation besuchen. Herakles, der Held, der durch Mühen zum Gott wurde, besaß ein kleines Heiligtum auf einem Hügel bei der Agora.",
+            "Der berühmteste Gott der Insel aber war Asklepios, der Heilgott. Sein Heiligtum, das Asklepieion, liegt etwa vier Kilometer vor der Stadt auf einem Hang. Dort suchten Kranke aus der ganzen griechischen Welt Heilung, und die Ärzte in der Tradition des Hippokrates waren eng mit ihm verbunden."
+          ]
+        }
+      ],
+      "quellen": [
+        "discoveringkos.com, „Aphrodite and Kos“, abgerufen 17.10.2026 (Doppeltempel am Hafeneingang, Zerstörung 469)",
+        "attalus.org, Inschrift 156 (Kultgesetz der Aphrodite Pandemos, um 196/5 v. Chr.), über Suchergebnis 17.10.2026",
+        "aegeanislands.gr, „Kos: The port and ancient agora“, abgerufen 17.10.2026 (Heraklesheiligtum, Säulentrommeln)",
+        "kos.gr, „Altar of Dionysos“, abgerufen 17.10.2026 (Datierung 2. Jh. v. Chr.)",
+        "Wikipedia (de), „Gymnasion“, abgerufen 17.10.2026 (Gymnasion und Kult)"
+      ]
+    },
+    {
+      "id": "gymnasion-schule",
+      "titel": "Das Gymnasion als Schule",
+      "untertitel": "Sport, Bildung und die Erziehung der jungen Bürger",
+      "abschnitte": [
+        {
+          "ueberschrift": "Mehr als eine Sporthalle",
+          "absaetze": [
+            "Das griechische Gymnasion war ursprünglich ein Übungsplatz für junge Männer, die als schwer bewaffnete Fußsoldaten dienen sollten. In hellenistischer Zeit wurde es zur wichtigsten Bildungseinrichtung einer Stadt und zu ihrem Wahrzeichen. Es rückte aus den Vororten in die Stadtzentren, wie hier in Kos, und neben dem Körper wurde nun auch der Geist geschult.",
+            "Das Wort kommt von gymnos, nackt. Die Athleten zogen sich im Umkleideraum aus, rieben sich mit Olivenöl ein und trainierten unbekleidet. Danach schabten sie Öl, Schweiß und Staub mit einem gebogenen Schaber, der Strigilis, von der Haut. Zugang hatten freie Bürger und ihre Söhne, Sklaven waren ausgeschlossen."
+          ]
+        },
+        {
+          "ueberschrift": "Epheben, Neoi und der Gymnasiarch",
+          "absaetze": [
+            "Im Mittelpunkt standen die Epheben, junge Männer um das 18. bis 20. Lebensjahr, die auf ihre Rolle als Bürger und Soldaten vorbereitet wurden, und die Neoi, die jungen Erwachsenen. Sie übten Laufen, Ringen, Faustkampf, Speer- und Diskuswerfen, vielerorts auch Bogenschießen und den Umgang mit Waffen.",
+            "Geleitet wurde das Gymnasion von einem Gymnasiarchen, einem für ein Jahr gewählten angesehenen Bürger. Er verwaltete die Kasse, sorgte für Ordnung und das teure Öl und zahlte oft vieles aus eigener Tasche. Dafür ehrte ihn die Stadt. Aus Kos sind solche Ehrenbeschlüsse für Gymnasiarchen erhalten, aus dem 1. Jahrhundert v. Chr. bis ins 3. Jahrhundert n. Chr."
+          ]
+        },
+        {
+          "ueberschrift": "Bücher neben dem Sportplatz",
+          "absaetze": [
+            "In hellenistischer Zeit hörten Epheben im Gymnasion auch Vorträge von Philosophen, Rhetoren und Dichtern. Viele Gymnasien hatten kleine Bibliotheken. Aus Kos stammt eine Inschrift des frühen 2. Jahrhunderts v. Chr., die als frühester Beleg für die Gründung einer öffentlichen Bibliothek in einer griechischen Stadt gilt. Wo diese Bibliothek stand, ist nicht bekannt.",
+            "Wie viel Unterricht im engeren Sinn im Gymnasion stattfand, ist in der Forschung umstritten: Wohlhabende Familien ließen ihre Söhne oft auch zu Hause unterrichten. Sicher ist, dass das Gymnasion der Ort war, an dem die jungen Männer einer Stadt zusammenkamen und lernten, was es hieß, Bürger zu sein."
+          ]
+        },
+        {
+          "ueberschrift": "Wettkämpfe im Stadion",
+          "absaetze": [
+            "Zum Gymnasion gehörte das Stadion, die Laufbahn mit Sitzstufen für die Zuschauer. In Kos lag es nördlich der Westzone und war etwa 180 Meter lang. Hier fanden die großen Wettkämpfe der Stadt statt. Die Sieger erhielten Kränze und Ehren, und ihre Namen wurden in Stein festgehalten.",
+            "Wer auswärts siegte, etwa bei den großen Spielen in Olympia oder Delphi, brachte seiner Heimatstadt Ruhm. Auch das Asklepieion vor der Stadt veranstaltete alle vier Jahre Spiele zu Ehren des Asklepios mit Wettkämpfen in Sport und Musik."
+          ]
+        }
+      ],
+      "bild": {
+        "src": "img/rekonstruktionen/xystos.svg",
+        "alt": "Zeichnung einer langen dorischen Säulenhalle mit Ziegeldach und einer Laufbahn davor",
+        "credit": "Zeichnung für diesen Begleiter",
+        "lizenz": "eigene Zeichnung",
+        "link": null,
+        "basis": "Dorische Marmorsäulen und Nutzung nach discoveringkos.com und kos.gr; Dach, Höhen und Personen angenommen"
+      },
+      "quellen": [
+        "Wikipedia (de), „Gymnasion“, abgerufen 17.10.2026 (Herkunft, Training, Strigilis, Zugang, Gymnasiarch, hellenistische Rolle, Bibliotheken)",
+        "O. Curty, Gymnasiarchika (2015), nach der Rezension BMCR 2015.07.04; A. Chankowski, L'éphébie hellénistique (2010) (Epheben, Neoi, Gymnasiarch)",
+        "PHI Greek Inscriptions, Ehrenbeschlüsse für Gymnasiarchen aus Kos (u. a. Segre, Iscrizioni di Cos EV 169, 1. Jh. v. Chr.), über Suchergebnis 17.10.2026",
+        "BMCR bzw. Inschriftensammlung, Bibliotheksinschrift aus Kos (frühes 2. Jh. v. Chr.), über Suchergebnis 17.10.2026",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Stadion ca. 180 m)",
+        "Begleiter Asklepieion, Thema „Alltag im Heiligtum“ (Große Asklepieia alle vier Jahre seit 242/241 v. Chr., nach Interdonato 2010)"
+      ]
+    },
+    {
+      "id": "wohnen-wasser",
+      "titel": "Wohnen und Wasser",
+      "untertitel": "Häuser mit Mosaiken, Brunnen, Bäder und Latrinen",
+      "abschnitte": [
+        {
+          "ueberschrift": "Ein Haus um einen Hof",
+          "absaetze": [
+            "Ein wohlhabendes Stadthaus in Kos wandte der Straße nur Mauern und eine Tür zu. Das Leben spielte sich innen ab, um einen offenen Hof mit Säulenumgang, das Peristyl. Er brachte Licht und Luft in die Räume, sammelte Regenwasser in Becken und Zisternen und war oft mit Pflanzen und Statuen geschmückt.",
+            "Um den Hof lagen Empfangs- und Speiseräume mit Mosaikböden und bemalten Wänden, dazu Schlafräume, Küche, Vorräte und Räume für Sklaven. In den besten Räumen lagen die Gäste beim Gastmahl auf Liegen, und die Bilder am Boden waren so gelegt, dass man sie von dort aus betrachtete. Die Casa Romana zeigt diesen Haustyp besonders anschaulich."
+          ]
+        },
+        {
+          "ueberschrift": "Bilder aus Steinchen",
+          "absaetze": [
+            "Ein Mosaik besteht aus Tausenden kleiner Würfel aus Stein, Marmor oder Glas, den Tesserae. Werkstätten legten sie nach Vorlagen; die Motive kamen aus der Mythologie, aus der Welt der Arena oder aus dem Meer. In Kos sind der Raub der Europa, das Urteil des Paris, Gladiatoren, Jagdszenen und Delfine erhalten.",
+            "Die Bilder sagten etwas über den Hausherrn: Er kannte die Mythen, liebte Spiele und Jagd und konnte sich gute Handwerker leisten. Viele Mosaiken aus Kos stammen aus dem 2. und 3. Jahrhundert n. Chr., der Zeit nach dem Erdbeben von 142."
+          ]
+        },
+        {
+          "ueberschrift": "Wasser für die Stadt",
+          "absaetze": [
+            "Eine Stadt dieser Größe brauchte viel Wasser: für Brunnen, Bäder und Haushalte. Unter den Straßen der Westzone liegen gewölbte Abwasserkanäle, die Sie an manchen Stellen sehen können. Die Thermen, die römischen Bäder, waren nicht nur zum Waschen da. Man traf sich dort, trieb Sport, ließ sich massieren und redete über Geschäfte und Politik.",
+            "Auch die öffentliche Latrine, das sogenannte Nymphäon, war ein Ort der Begegnung. Man saß nebeneinander auf Marmorsitzen über einem Kanal mit fließendem Wasser, ohne Trennwände. Was uns heute befremdet, war in römischen Städten ganz normal."
+          ]
+        }
+      ],
+      "bild": {
+        "src": "img/fotos/wohnen.jpg",
+        "alt": "Mosaikboden mit Brunnenöffnung in einem römischen Haus der Westzone",
+        "credit": "JD554 (Wikimedia Commons), 2008",
+        "lizenz": "CC BY-SA 3.0",
+        "link": "https://commons.wikimedia.org/wiki/File:House_of_Europa_well_2008.jpg",
+        "basis": null
+      },
+      "quellen": [
+        "discoveringkos.com, „Casa Romana“ und „The Western Archaeological Area“, abgerufen 17.10.2026 (Hauskomplexe, Mosaiken, Kanäle, Latrine)",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Mosaikhäuser, Wiederaufbau nach 142 n. Chr.)",
+        "Lonely Planet, BYZART-Katalog, N. Vellidis (BAA 2022), über Suchergebnis 17.10.2026 (Datierung der Mosaiken, 2./3. Jh. n. Chr.)"
+      ]
+    },
+    {
+      "id": "arbeiten",
+      "titel": "Arbeiten in Kos",
+      "untertitel": "Hafen, Wein, feine Stoffe und berühmte Ärzte",
+      "abschnitte": [
+        {
+          "ueberschrift": "Eine Stadt am Seeweg",
+          "absaetze": [
+            "Kos lebte vom Meer. Der Hafen lag an einer der wichtigsten Schifffahrtsrouten zwischen Ägäis, Kleinasien, Rhodos und Ägypten. Schiffe brauchten Wasser, Proviant und Reparaturen, Kaufleute suchten Waren und Geldwechsler, Reisende eine Unterkunft. Daran verdienten Seeleute, Hafenarbeiter, Zimmerleute, Seilmacher, Wirte und Händler.",
+            "Die Insel selbst ist fruchtbar. Getreide, Oliven und vor allem Wein wurden angebaut. Koischer Wein wurde seit dem 4. Jahrhundert v. Chr. in Amphoren über das Meer verschifft. Er hatte eine Besonderheit: Dem Most wurde Meerwasser zugesetzt. Der römische Schriftsteller Cato gibt sogar ein Rezept dafür, und Plinius erzählt, ein Sklave habe das Verfahren erfunden, als er heimlich Meerwasser zugoss. Der Geschmack war so beliebt, dass man „koischen Wein“ bald auch anderswo nachmachte."
+          ]
+        },
+        {
+          "ueberschrift": "Koische Gewänder",
+          "absaetze": [
+            "Berühmt war Kos für einen feinen, fast durchsichtigen Stoff, die koischen Gewänder, lateinisch Coa vestis. Der römische Gelehrte Plinius der Ältere berichtet, eine Frau namens Pamphile, Tochter des Plateas, habe auf Kos als Erste gelernt, die Fäden von Seidenraupen-Kokons abzuwickeln und zu verweben. Wahrscheinlich handelte es sich um die Wildseide einer einheimischen Mottenart.",
+            "In Rom waren diese Stoffe ein Luxus, oft mit Purpur gefärbt und mit Gold durchwirkt. Die Dichter der Zeit des Augustus spotteten und schwärmten zugleich über Kleider, durch die man hindurchsehen könne. Später verdrängte chinesische Seide die koische."
+          ]
+        },
+        {
+          "ueberschrift": "Ärzte und Gelehrte",
+          "absaetze": [
+            "Ein besonderer Beruf machte Kos bekannt: der des Arztes. In der Nachfolge des Hippokrates, der etwa von 460 bis 370 v. Chr. lebte, bildeten sich hier Ärzte aus, die in der ganzen griechischen Welt arbeiteten, oft als von Städten angestellte Stadtärzte. Einer von ihnen, Gaius Stertinius Xenophon, wurde Leibarzt des Kaisers Claudius in Rom.",
+            "Daneben gab es all die Berufe, die eine antike Stadt brauchte: Bauleute und Steinmetze, Mosaikleger und Maler, Töpfer, Schmiede, Bäcker, Schreiber, Lehrer. Viele der schweren Arbeiten erledigten Sklaven, die in der antiken Gesellschaft selbstverständlich waren und in den Inschriften selten mit Namen erscheinen."
+          ]
+        }
+      ],
+      "quellen": [
+        "Wikipedia (en), „Coa vestis“, und W. Smith, Dictionary of Greek and Roman Antiquities, „Coa vestis“ (penelope.uchicago.edu), abgerufen 17.10.2026; Grundlage: Plinius d. Ä., Naturalis historia, Buch 11 (Pamphile; Stellenangabe je nach Ausgabe 11,76–77 bzw. 11,26)",
+        "worldhistory.org, „Kos“, abgerufen 17.10.2026 (Xenophon, Leibarzt des Claudius)",
+        "Begleiter Asklepieion, Thema „Hippokrates und die Gründungslegende“ (Lebensdaten)",
+        "Wikipedia (en), „Coan wine“, abgerufen 17.10.2026 (Ausfuhr ab dem 4. Jh. v. Chr., Meerwasser; nach Cato, De agri cultura, und Plinius d. Ä.)"
+      ]
+    }
+  ]
+}

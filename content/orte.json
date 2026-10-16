@@ -1,0 +1,740 @@
+{
+  "orte": [
+    {
+      "id": "eingang",
+      "nr": 1,
+      "bereich": "west",
+      "titel": "Am Eingang: eine Stadt nach Plan",
+      "untertitel": "Westliche Ausgrabungszone · Überblick",
+      "lat": 36.8905,
+      "lon": 27.2852,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Sie stehen am Rand der Westlichen Ausgrabungszone, mitten in der heutigen Stadt. Vor Ihnen liegt ein Ausschnitt der antiken Stadt Kos: Straßen, Häuser, ein Bad, eine öffentliche Latrine und das große Gymnasion mit seinen aufgerichteten Säulen. Gegenüber, auf der anderen Straßenseite, sehen Sie das römische Odeon.",
+            "Die Stadt wurde 366 v. Chr. neu gegründet, als sich die Gemeinden der Insel zusammenschlossen. Sie wurde nach einem rechtwinkligen Plan angelegt. Was Sie hier sehen, stammt aber überwiegend aus der römischen Zeit, aus dem 2. und 3. Jahrhundert n. Chr., als die Stadt nach einem Erdbeben erneuert wurde.",
+            "Dass Sie das alles sehen können, verdanken Sie einer Katastrophe: Das Erdbeben vom 23. April 1933 zerstörte das Viertel, das hier stand. Italienische Archäologen gruben danach, zwischen 1936 und 1940, die antike Stadt aus."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "So nutzen Sie den Rundgang",
+          "absaetze": [
+            "Der vorgeschlagene Weg führt zuerst nach Osten zum Haus der Europa, dann über Cardo, Latrine und Thermen nach Westen zum Gymnasion und weiter nördlich zum Stadion. Zum Schluss geht es zurück über die Grigoriou-V-Straße zum Odeon und, wenn Sie mögen, zur Casa Romana und zum Dionysos-Altar.",
+            "Die Punkte im Plan sind ungefähr gesetzt, etwa auf 20 bis 30 Meter genau: Die genaue Lage der einzelnen Bauten innerhalb der Grabung ist aus frei zugänglichen Plänen nicht sicher zu bestimmen. Orientieren Sie sich vor Ort an den Fotos."
+          ]
+        },
+        {
+          "ueberschrift": "Eine Grabung aus der Italienerzeit",
+          "absaetze": [
+            "Kos gehörte von 1912 bis 1943 zu Italien. Die italienischen Archäologen Luciano Laurenzi und Luigi Morricone gruben nicht nur, sie stellten auch wieder auf: Säulen am Gymnasion und in der Latrine, Mauern und ganze Häuser. Das macht die Anlage anschaulich, man muss aber wissen, dass nicht jede Säule an ihrem ursprünglichen Platz steht."
+          ]
+        }
+      ],
+      "themen": ["geschichte"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/eingang.jpg",
+          "etikett": "Westzone",
+          "alt": "Blick über Mauerreste der Westlichen Ausgrabungszone mit Bäumen",
+          "credit": "Rikki Mitterer (Wikimedia Commons), 2019",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos-Western_Archaeological_Site-33ESD.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/eingang-oben.jpg",
+          "etikett": "Von oben",
+          "alt": "Blick von einer Mauer über die Grabung mit Säulenresten und Häusern dahinter",
+          "credit": "kallerna (Wikimedia Commons), 2012",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Panorama_Kos_9.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "kos.gr, „Ancient Gymnasium & Stadium“ (Gemeinde Kos, nach Manoleri/Panagou/Marselou, History of Kos), abgerufen 17.10.2026 (Lage, Eingänge, Grabungen 1937–1940)",
+        "discoveringkos.com, „The Western Archaeological Area“ (P. Gkikas 2019, nach Grigoriadou/Hatzivasileiou), abgerufen 17.10.2026 (Grabung nach 1933, Laurenzi und Morricone, 1936–1940)",
+        "Lage der Stationspunkte: nach OpenStreetMap und den Lagebeschreibungen der genannten Quellen, ungefähr"
+      ]
+    },
+    {
+      "id": "decumanus",
+      "nr": 2,
+      "bereich": "west",
+      "titel": "Der Decumanus",
+      "untertitel": "Die breiteste Straße von Kos",
+      "lat": 36.89072,
+      "lon": 27.28585,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Diese Straße läuft von Osten nach Westen durch die Grabung. Die Archäologen nennen sie mit einem römischen Wort Decumanus. Mit 10,5 Metern ist sie die breiteste Straße, die man in Kos gefunden hat: 4,45 Meter Fahrbahn in der Mitte, auf beiden Seiten breite Gehwege.",
+            "Über den Gehwegen standen Säulenhallen. Man ging im Schatten, an Läden und Werkstätten vorbei, während auf der Fahrbahn Karren und Lasttiere unterwegs waren. Solche Säulenstraßen waren in den Städten Kleinasiens und des Ostens in der römischen Kaiserzeit beliebt. Die Architektur hier stammt aus den ersten Jahrzehnten des 3. Jahrhunderts n. Chr.",
+            "Achten Sie auf die Säulenstümpfe am Straßenrand: Sie zeigen, wo die Hallen standen. Unter dem südlichen Gehweg verläuft ein Abwasserkanal."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Ein Straßennetz im rechten Winkel",
+          "absaetze": [
+            "Der Decumanus trifft im Südwesten auf eine Nord-Süd-Straße, den Cardo, der Ihnen später begegnet. Beide gehören zum rechtwinkligen Straßenraster der Stadt, das auf die Gründung im 4. Jahrhundert v. Chr. zurückgeht. Die Römer haben das Raster beibehalten und die Straßen prächtiger ausgebaut.",
+            "Nördlich der Straße lagen Wohnhäuser mit Mosaiken und Wandmalereien, darunter das Haus der Europa, die nächste Station."
+          ]
+        }
+      ],
+      "themen": ["agora", "arbeiten"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/decumanus.jpg",
+          "etikett": "Pflaster",
+          "alt": "Gepflasterte antike Straße zwischen Bäumen und Mauerresten",
+          "credit": "sailko (Wikimedia Commons), 2013",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_citt%C3%A0,_antico_decumano_03.JPG",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/decumanus-2.jpg",
+          "etikett": "Ränder",
+          "alt": "Steinreste und Säulenstümpfe am Rand der antiken Straße",
+          "credit": "sailko (Wikimedia Commons), 2013",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_citt%C3%A0,_antico_decumano_01.JPG",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/decumanus.svg",
+          "alt": "Zeichnung einer Säulenstraße mit Läden, Gehwegen und gepflasterter Fahrbahn",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Breiten nach discoveringkos.com und kos.gr; Säulenhallen und Läden nach dem Befund, Dächer, Höhen und Personen angenommen"
+        }
+      },
+      "quellen": [
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (Decumanus 10,50 m, Fahrbahn 4,45 m, ca. 150 m freigelegt, Kanal, Datierung erste Jahrzehnte des 3. Jh. n. Chr., Wohnblöcke nördlich)",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Straße mit Säulenhallen, 10,50 m)"
+      ]
+    },
+    {
+      "id": "haus-europa",
+      "nr": 3,
+      "bereich": "west",
+      "titel": "Das Haus der Europa",
+      "untertitel": "Mosaik vom Raub der Europa",
+      "lat": 36.891,
+      "lon": 27.2866,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Unter den Schutzdächern liegen die Reste eines vornehmen Stadthauses. Es wurde aus einem älteren, hellenistischen Haus umgebaut und erhielt Wandmalereien und Mosaikböden. Sein berühmtestes Bild gab ihm den Namen: der Raub der Europa.",
+            "Der Mythos erzählt: Zeus verliebte sich in Europa, die Tochter des Königs von Phönizien. Er verwandelte sich in einen schönen weißen Stier und näherte sich ihr am Strand. Als sie sich auf seinen Rücken setzte, sprang er ins Meer und trug sie nach Kreta. Auf dem Mosaik reitet Europa über das Wasser, ihr Gewand bläht sich wie ein Segel, unten schwimmt ein Delfin. Nach einer Beschreibung führt ein kleiner Eros mit einer Fackel den Stier.",
+            "Wann genau das Mosaik gelegt wurde, ist nicht sicher: Die Angaben schwanken zwischen dem 2. und dem 3. Jahrhundert n. Chr."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Wer hier wohnte",
+          "absaetze": [
+            "Ein Haus mit solchen Bildern gehörte einer wohlhabenden Familie. Das Mosaik lag in einem Repräsentationsraum, in dem der Hausherr Gäste empfing. Wer es betrachtete, sollte erkennen: Hier wohnt jemand mit Bildung und Geschmack, der die alten Geschichten kennt.",
+            "Aus dem Haus stammen auch Statuen, die heute im Archäologischen Museum von Kos stehen. Die Wandmalereien sind in Resten erhalten, achten Sie auf rote und gelbe Farbfelder an den Mauern."
+          ]
+        },
+        {
+          "ueberschrift": "Europa und Europa",
+          "absaetze": [
+            "Der Name unseres Kontinents geht auf diese Europa zurück, auch wenn die Herkunft des Wortes selbst unsicher ist. Am Ortseingang von Kos erinnert eine moderne Skulptur an die Szene des Mosaiks."
+          ]
+        }
+      ],
+      "themen": ["wohnen-wasser", "goetter"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/europa-mosaik.jpg",
+          "etikett": "Mosaik",
+          "alt": "Mosaik mit einer Frau, die auf einem Tier über das Meer reitet, darunter ein Delfin",
+          "credit": "JD554 (Wikimedia Commons), 2008",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:The_Abduction_of_Europa_mosaic_2008_crop.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/europa-hof.jpg",
+          "etikett": "Haus",
+          "alt": "Hof eines römischen Hauses mit zwei Säulen und Schutzdächern über den Räumen",
+          "credit": "sailko (Wikimedia Commons), 2013",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_citt%C3%A0,_case_romane_02.JPG",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/peristylhaus.svg",
+          "alt": "Grundriss-Zeichnung eines römischen Hauses mit Säulenhof, Speiseraum und Wohnräumen",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Haustyp nach der Casa Romana und den Häusern der Westzone (discoveringkos.com); Raumaufteilung schematisch, nicht der Grundriss dieses Hauses"
+        }
+      },
+      "quellen": [
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Mosaik vom Raub der Europa, einer der größten von Kos; Eros mit Fackel; moderne Skulptur am Ortseingang)",
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (Umbau aus hellenistischem Haus, Wandmalereien, Statuen im Museum)",
+        "Lonely Planet (2. Jh.), BYZART-Katalog und N. Vellidis, BAA-Bericht 2022 (3. Jh. n. Chr.), über Suchergebnis 17.10.2026 (Datierung umstritten)",
+        "Mythos: Ovid, Metamorphosen 2,833–875 (Raub der Europa)"
+      ]
+    },
+    {
+      "id": "wohnviertel",
+      "nr": 4,
+      "bereich": "west",
+      "titel": "Das Wohnviertel",
+      "untertitel": "Gladiatoren, Paris und andere Bilder am Boden",
+      "lat": 36.89085,
+      "lon": 27.28715,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Rund um das Haus der Europa lagen weitere Häuser, durch schmale Gassen getrennt. Auch sie hatten Mosaikböden. Ein besonders lebendiges zeigt Gladiatoren im Kampf, mit ihren Namen in griechischer Schrift daneben. Gladiatorenkämpfe kamen mit den Römern in den griechischen Osten und waren dort beliebt.",
+            "Am Nordende der Grabung liegt ein großes Mosaik mit dem Urteil des Paris: Der trojanische Prinz soll entscheiden, welche der Göttinnen Hera, Athena oder Aphrodite die schönste ist. Er wählt Aphrodite, die ihm dafür Helena verspricht, und löst so den Trojanischen Krieg aus.",
+            "Welche Böden gerade sichtbar sind, hängt davon ab, ob sie zum Schutz abgedeckt sind. Die Fotos zeigen sie."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Was Mosaiken erzählen",
+          "absaetze": [
+            "In den Häusern der Westzone fand man weitere Bilder: einen bärtigen Silen, einen Gefährten des Dionysos, eine Eberjagd, Tierkämpfe. Mythen, Spiele und Jagd waren die Lieblingsthemen der Oberschicht. Die Bilder zeigten Bildung und Lebensstil der Hausherren, ähnlich wie heute ein Bücherregal oder eine Kunstsammlung.",
+            "Die Mosaiken wurden von spezialisierten Werkstätten gelegt, oft nach Musterbüchern. Viele in Kos stammen aus dem 2. und 3. Jahrhundert n. Chr."
+          ]
+        }
+      ],
+      "themen": ["wohnen-wasser", "arbeiten"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/gladiatoren.jpg",
+          "etikett": "Gladiatoren",
+          "alt": "Mosaik mit kämpfenden Gladiatoren und griechischen Namensinschriften",
+          "credit": "sailko (Wikimedia Commons), 2013",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_citt%C3%A0,_case_romane_11_mosaico_04_gladiatori.JPG",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/paris.jpg",
+          "etikett": "Paris",
+          "alt": "Großes Mosaik mit dem Urteil des Paris im Mittelfeld und Figuren in Feldern ringsum",
+          "credit": "JD554 (Wikimedia Commons), 2003",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:The_Judgment_of_Paris_mosaic.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (Wohnblöcke, Haus des Silen mit Eberjagd, Mosaik „Urteil des Paris“ am Nordende, Tierkampfmosaik)",
+        "Wikimedia Commons, Kategorie „Ancient Roman mosaics in Kos“ (Gladiatorenmosaik in den römischen Häusern der Westzone), abgerufen 17.10.2026",
+        "Mythos: Homer, Ilias 24,25–30; Wikipedia (de), „Urteil des Paris“"
+      ]
+    },
+    {
+      "id": "cardo",
+      "nr": 5,
+      "bereich": "west",
+      "titel": "Der Cardo",
+      "untertitel": "Pflaster, Radspuren und Läden",
+      "lat": 36.89105,
+      "lon": 27.2851,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Diese gepflasterte Straße läuft von Nordosten nach Südwesten. Etwa 160 Meter sind freigelegt, auf rund 120 Metern liegt noch das Pflaster aus Travertin, einem hellen Kalkstein. Die Straße ist wohl hellenistisch und wurde in römischer Zeit erneuert.",
+            "Schauen Sie auf den Boden: Die Rillen im Pflaster sind Radspuren von Karren, die hier jahrhundertelang fuhren. An den Seiten liegen Gehwege, im Westen ein Meter breit, im Osten zwei. Unter der Fahrbahn verläuft ein breiter, gewölbter Abwasserkanal.",
+            "In der späteren Kaiserzeit säumten Läden, die tabernae, die Straße. Hier kaufte man ein, ließ etwas reparieren oder trank einen Becher Wein."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Ein Kanal unter der Straße",
+          "absaetze": [
+            "Die antike Stadt hatte eine Kanalisation. Regenwasser und Abwasser von Thermen und Latrine flossen durch gemauerte Kanäle unter den Straßen ab. Das war kein Luxus, sondern Voraussetzung für eine dicht bebaute Stadt mit vielen Brunnen und Bädern.",
+            "Östlich des Cardo stand eine Säulenhalle aus Porosstein, die schon im 4. oder 3. Jahrhundert v. Chr. gebaut und in römischer Zeit erneuert wurde. Gegenüber, auf der Westseite, liegen die Thermen."
+          ]
+        }
+      ],
+      "themen": ["arbeiten", "wohnen-wasser"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/cardo.jpg",
+          "etikett": "Pflaster",
+          "alt": "Antike Pflasterstraße mit Gehwegen, im Hintergrund Ruinen und ein Bogen",
+          "credit": "Elisa Triolo (Wikimedia Commons), 2010",
+          "lizenz": "CC BY-SA 2.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Via_Cardo.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/cardo-2.jpg",
+          "etikett": "Straße",
+          "alt": "Blick die gepflasterte Straße entlang zu einem Ziegelbogen der Thermen",
+          "credit": "Michael Schmalenstroer (Wikimedia Commons), 2018",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:West_Archeological_Site_-_Kos_City_09.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (Cardo: ca. 160 m, Travertin auf 120 m, Gehwege 1 m und 2 m, Radspuren, Kanal, tabernae; Säulenhalle aus Poros 4.–3. Jh. v. Chr.)",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Cardo, Datierung 3. Jh. n. Chr.; *abweichend*)"
+      ]
+    },
+    {
+      "id": "nymphaeum",
+      "nr": 6,
+      "bereich": "west",
+      "titel": "Das „Nymphäon“",
+      "untertitel": "Eine öffentliche Latrine mit Marmorsitzen",
+      "lat": 36.8912,
+      "lon": 27.2855,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Der Bau heißt seit seiner Ausgrabung Nymphäon, also Brunnenheiligtum. Das klingt feierlich, war aber etwas ganz Alltägliches: eine öffentliche Latrine, auf Lateinisch forica, die zu den benachbarten Thermen gehörte. Sie wurde wohl im 3. Jahrhundert n. Chr. gebaut und beim Erdbeben von 469 zerstört.",
+            "Der Bau ist fast quadratisch, etwa 18 mal 20 Meter, der Eingang liegt im Westen. In der Mitte ein Hof mit einem Brunnen, rundherum weiße Marmorsäulen; elf davon haben die Italiener 1940 wieder aufgerichtet. Der Boden war mit Marmor und Mosaiken ausgelegt, darunter zwei Bilder mit Delfinen.",
+            "An der Nordwand lagen die Sitze aus Stein über einem tiefen Kanal, durch den ständig Wasser floss. Man saß nebeneinander, ohne Trennwände, und unterhielt sich."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Warum „Nymphäon“?",
+          "absaetze": [
+            "Die Westwand ist gut vier Meter hoch erhalten und hat drei große Nischen, in denen Wasserbecken lagen. Solche Wandbrunnen kennt man von Nymphäen, prächtigen Brunnenhäusern, die den Nymphen, den Quellgöttinnen, geweiht waren. Daher der Name. Die Steinsitze über dem Kanal zeigen aber, wozu der Raum tatsächlich diente.",
+            "Römische Latrinen waren oft schön ausgestattet. Sie waren Teil der städtischen Wasserversorgung: Das Wasser aus Brunnen und Bädern spülte die Kanäle, bevor es abfloss."
+          ]
+        }
+      ],
+      "themen": ["wohnen-wasser"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/nymphaeum.jpg",
+          "etikett": "Säulenhof",
+          "alt": "Innenhof mit weißen Marmorsäulen und Bögen, links ein Brunnenrand",
+          "credit": "Mickapr (Wikimedia Commons), 2018",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:K%C3%B3s_(m%C4%9Bsto),_Nymfeum_II.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/nymphaeum-aussen.jpg",
+          "etikett": "Von außen",
+          "alt": "Kastenförmiger Bau aus Bruchstein mit Bogenöffnungen an einem Weg",
+          "credit": "Tedmek (Wikimedia Commons), 2007",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_nymph01.jpg",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/latrine.svg",
+          "alt": "Zeichnung der Latrine mit Säulenhof, Brunnen, Marmorsitzen über einem Kanal und Wandnischen",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Maße, Hof, Brunnen, Säulen, Sitze an der Nordwand und Nischen der Westwand nach discoveringkos.com; Ansicht, Farben und Personen angenommen"
+        }
+      },
+      "quellen": [
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (Forica der Thermen, 3. Jh. n. Chr., zerstört 469, ca. 18 × 20 m, Eingang Westen, Hof mit Brunnen, Westwand 4,10 m mit drei Nischen, Delfinmosaiken, 11 Säulen, Sitze über Kanal an der Nordwand)",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (ausgegraben 1938, restauriert 1940)"
+      ]
+    },
+    {
+      "id": "westthermen",
+      "nr": 7,
+      "bereich": "west",
+      "titel": "Die Westthermen und die Basiliken",
+      "untertitel": "Vom römischen Bad zur Kirche",
+      "lat": 36.89108,
+      "lon": 27.28455,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Die großen Bögen aus Ziegel und Bruchstein gehören zu den Westthermen, einem römischen Bad. Es wurde im 3. Jahrhundert n. Chr. zwischen der Säulenhalle des Gymnasions und dem Cardo gebaut, ein unregelmäßiges Viereck von etwa 92 Metern Länge.",
+            "In einer römischen Therme ging man durch Räume mit steigender Temperatur: vom Umkleideraum ins kalte Bad, dann in lauwarme und heiße Räume, beheizt durch Fußbodenheizung. Für viele Menschen war das Bad ein täglicher Treffpunkt.",
+            "Das Erdbeben von 469 zerstörte einen Teil der Thermen. Auf ihren Resten entstand eine frühchristliche Bischofskirche mit Taufkapelle. Die Marmortür, durch die Sie schauen können, gehörte zu dieser Kirche."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Von der Antike ins Christentum",
+          "absaetze": [
+            "Auf dem Gelände der Thermen bauten Christen zwei Basiliken mit geometrischen Mosaikböden und ein Baptisterium, einen Raum für die Taufe. Kos war in frühbyzantinischer Zeit Sitz eines Bischofs.",
+            "Am Nordende der Thermen liegt ein großes Mosaik aus dem 2. Jahrhundert n. Chr. mit Tierkämpfen, etwa 14 mal 7 Meter groß. Darunter fand man Fundamente eines Baus aus dem 4. oder 3. Jahrhundert v. Chr."
+          ]
+        }
+      ],
+      "themen": ["wohnen-wasser", "geschichte"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/thermen.jpg",
+          "etikett": "Thermen",
+          "alt": "Ruinen der Thermen mit einem großen Ziegelbogen und Mauerresten",
+          "credit": "kallerna (Wikimedia Commons), 2012",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:The_Western_Baths_2.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/basilika.jpg",
+          "etikett": "Kirchentür",
+          "alt": "Marmorne Türrahmung in einer Bruchsteinmauer, dahinter ein Baum",
+          "credit": "Elisa Triolo (Wikimedia Commons), 2010",
+          "lizenz": "CC BY-SA 2.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Basilica_door_1.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (Westthermen 3. Jh. n. Chr., ca. 92 × 33–35 m, Zerstörung 469, frühchristliche Basiliken A und B mit Baptisterium, Mosaik 2. Jh. n. Chr. 14,20 × 6,65 m)",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Westthermen 3. Jh. n. Chr.)",
+        "Ablauf eines römischen Bades: allgemeiner Forschungsstand, z. B. Wikipedia (de), „Therme“"
+      ]
+    },
+    {
+      "id": "xystos",
+      "nr": 8,
+      "bereich": "west",
+      "titel": "Der Xystos",
+      "untertitel": "Die Laufhalle des Gymnasions",
+      "lat": 36.8916,
+      "lon": 27.2845,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Die Reihe weißer Säulen ist das Wahrzeichen der Grabung. Sie gehörte zum Xystos, einer langen, überdachten Halle des Gymnasions. Hier trainierten die jungen Männer, wenn es regnete oder zu heiß war, vor allem im Winter. Gebaut wurde die Halle in der ersten Hälfte des 2. Jahrhunderts v. Chr.",
+            "Die Säulen sind dorisch: ohne Basis, mit einfachem, kissenförmigem Kapitell, aus weißem Marmor der Insel. 17 stehen heute wieder aufrecht; ursprünglich waren es vielleicht 81. Die Italiener haben sie 1938 gefunden und an ihrer Ostseite in einer Linie aufgestellt.",
+            "Stellen Sie sich das Dach darüber vor und davor die offene Bahn: Dann sehen Sie, wie groß diese Sportanlage war."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Ein Bau mit langer Geschichte",
+          "absaetze": [
+            "Der Xystos war mehr als vierhundert Jahre in Gebrauch. Im 3. Jahrhundert n. Chr. wurde er repariert, und an seiner Südseite kamen ein Bad und ein Schwimmbecken hinzu. Das Erdbeben von 469 brachte die Halle zum Einsturz; ihre Steine wurden für frühchristliche Mauern verwendet.",
+            "Ein Xystos ist eine Besonderheit großer Gymnasien. Er erlaubte das Lauftraining über die volle Länge eines Stadions, also etwa 180 bis 190 Meter, im Schatten."
+          ]
+        }
+      ],
+      "themen": ["gymnasion-schule"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/xystos.jpg",
+          "etikett": "Säulen",
+          "alt": "Reihe aufgerichteter weißer dorischer Säulen mit Gebälk unter blauem Himmel",
+          "credit": "JD554 (Wikimedia Commons), 2008",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_30_Aug_-_14_Sep_2008_174.JPG",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/xystos-2.jpg",
+          "etikett": "Nah",
+          "alt": "Dorische Säulen mit aufliegendem Gebälk aus der Nähe",
+          "credit": "kallerna (Wikimedia Commons), 2012",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:The_Western_Baths_3.jpg",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/xystos.svg",
+          "alt": "Zeichnung einer langen dorischen Säulenhalle mit Ziegeldach und einer Laufbahn davor",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Dorische Marmorsäulen und Nutzung nach discoveringkos.com und kos.gr; Dach, Höhen, Säulenabstände und Personen angenommen"
+        }
+      },
+      "quellen": [
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (Xystos 1. Hälfte 2. Jh. v. Chr., Training im Winter, 17 von vielleicht 81 Pfeilern aus weißem Inselmarmor, Umbau 3. Jh. n. Chr., Einsturz 469)",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Fund der 17 Säulen 1938)",
+        "Lonely Planet, „Western Excavation Site“, über Suchergebnis 17.10.2026 (dorische Säulen)"
+      ]
+    },
+    {
+      "id": "gymnasion",
+      "nr": 9,
+      "bereich": "west",
+      "titel": "Das Gymnasion",
+      "untertitel": "Wo Kos seine jungen Bürger erzog",
+      "lat": 36.8919,
+      "lon": 27.2849,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Der Xystos war nur ein Teil einer viel größeren Anlage. Das Gymnasion war ein rechteckiger Bau um einen offenen Hof mit Säulenhallen, etwa 180 bis 200 Meter lang; die Angaben zu den Maßen schwanken. Es war das größte der drei Gymnasien von Kos.",
+            "Um den Hof lagen Räume für Unterricht und Training, Umkleiden und Bäder. Hier verbrachten die jungen Männer der Stadt viele Stunden am Tag: beim Laufen und Ringen, beim Speer- und Diskuswurf, aber auch bei Vorträgen von Lehrern und Philosophen.",
+            "Das Gymnasion war das Herz der hellenistischen Stadt, neben Agora und Theater. Wer hier ausgebildet wurde, gehörte dazu."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Ein Tag im Gymnasion",
+          "absaetze": [
+            "Am Morgen zog man sich im Umkleideraum aus, rieb sich mit Olivenöl ein und bestreute sich mit feinem Sand. Dann ging es in die Palästra, den Ringplatz, oder auf die Laufbahn. Trainer leiteten die Übungen. Nach dem Training schabte man sich mit der Strigilis, einem gebogenen Metallschaber, Öl und Staub ab und wusch sich.",
+            "Das Öl war teuer, und die Stadt oder wohlhabende Bürger stellten es oft kostenlos zur Verfügung. Der Gymnasiarch, der jährlich gewählte Leiter, war für diese Kosten verantwortlich. Aus Kos sind Ehrenbeschlüsse für Gymnasiarchen erhalten, die viel aus eigener Tasche bezahlten."
+          ]
+        }
+      ],
+      "themen": ["gymnasion-schule", "goetter"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/gymnasion.jpg",
+          "etikett": "Säulenreihe",
+          "alt": "Säulengruppen des Gymnasions entlang eines Weges, dahinter Bäume und Berge",
+          "credit": "Palatinatian (Wikimedia Commons), 2007",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Gymnasion.JPG",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/gymnasion-2.jpg",
+          "etikett": "Hof",
+          "alt": "Säulengruppe im grünen Hof des Gymnasions, rechts eine Palme",
+          "credit": "Rikki Mitterer (Wikimedia Commons), 2019",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos-Western_Archaeological_Site-Gymansion-11ESD.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (größtes der drei Gymnasien, ca. 180 × 90 m, offener Säulenhof)",
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (eines von drei Gymnasien, 200 × 120 m, offener Peristylhof; *abweichende Maße*)",
+        "Wikipedia (de), „Gymnasion“, abgerufen 17.10.2026 (Ablauf, Öl, Strigilis, Gymnasiarch)",
+        "PHI Greek Inscriptions, Ehrenbeschlüsse für Gymnasiarchen aus Kos, über Suchergebnis 17.10.2026"
+      ]
+    },
+    {
+      "id": "stadion",
+      "nr": 10,
+      "bereich": "nord",
+      "titel": "Das Stadion",
+      "untertitel": "Die Startanlage bei der Kapelle Agia Anna",
+      "lat": 36.893519,
+      "lon": 27.285384,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Gut zweihundert Meter nördlich der Westzone, an der Kreuzung der Straßen 31. Martiou und M. Alexandrou, lag das Stadion von Kos. Viel ist nicht zu sehen; die Reste liegen zwischen Häusern und Bäumen vor der kleinen Kapelle Agia Anna. Wenn Sie wenig Zeit haben, können Sie diese Station auslassen.",
+            "Das Stadion war etwa 178 bis 180 Meter lang und knapp 30 Meter breit. Es stammt in seiner bekannten Form aus der ersten Hälfte des 2. Jahrhunderts v. Chr. Sitzstufen gab es zunächst nur an der Ostseite, die Römer fügten an der Westseite Sitze aus Travertin hinzu.",
+            "Das Interessanteste ist die Startanlage, die Aphesis. Der deutsche Archäologe Rudolf Herzog fand sie 1899/1900."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Ein Startmechanismus",
+          "absaetze": [
+            "An der Startlinie stand eine Vorrichtung namens Hysplex: Schranken vor den Läufern, die mit Seilen gleichzeitig fallen gelassen wurden. So war ein Fehlstart kaum möglich. Von dieser Anlage sind in Kos sieben Pfeilerfundamente gefunden worden.",
+            "Nach kos.gr fanden hier Wettkämpfe zu Ehren von Zeus und Athena statt. Wie weit das für alle Spiele der Stadt gilt, ist nicht sicher belegt."
+          ]
+        }
+      ],
+      "themen": ["gymnasion-schule", "goetter"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/stadion.jpg",
+          "etikett": "Reste",
+          "alt": "Unscheinbare Steinreste und ein Marmorbecken zwischen Gras und Bäumen",
+          "credit": "Tomisti (Wikimedia Commons), 2014",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_Ancient_Stadium_3.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Lage, ca. 180 bzw. 177,60 × 29,60 m, Sitzstufen Ost hellenistisch, West römisch, Herzog 1899–1900 Aphesis, Laurenzi 1928 Sitze, Spiele für Zeus und Athena)",
+        "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (1. Hälfte 2. Jh. v. Chr., Hysplex, sieben Pfeiler, Travertintribüne im Westen)"
+      ]
+    },
+    {
+      "id": "odeon",
+      "nr": 11,
+      "bereich": "nachbar",
+      "titel": "Das Odeon",
+      "untertitel": "Musik, Ehrungen und ein Dach über den Zuschauern",
+      "lat": 36.88975,
+      "lon": 27.284749,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Gegenüber der Westzone, auf der Südseite der Grigoriou-V-Straße, liegt das römische Odeon aus dem 2. Jahrhundert n. Chr. Ein Odeon ist ein kleines Theater für Musik und Vorträge. Anders als ein großes Freilichttheater war es überdacht.",
+            "Etwa 750 Menschen fanden hier Platz, auf 14 Sitzreihen aus Marmor; neun davon wurden in den 1990er Jahren restauriert. Nach den Inschriften fanden hier musische Wettbewerbe statt, und eine öffentliche Körperschaft der Stadt tagte hier und ehrte verdiente Bürger. Vielleicht stand an dieser Stelle schon vorher ein Ratssaal.",
+            "Unter den Sitzreihen liegen Gewölbegänge. In ihren Nischen standen Statuen, darunter eine des Hippokrates; sie ist heute im Archäologischen Museum von Kos."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Ausgraben und Wiederaufbauen",
+          "absaetze": [
+            "Der italienische Archäologe Luciano Laurenzi entdeckte und grub das Odeon 1929 aus, die Italiener begannen gleich mit der Restaurierung. Zwischen 1994 und 1999 haben griechische Archäologen es erneut gesichert und die Sitzreihen ergänzt. Heute finden hier wieder Konzerte und Veranstaltungen statt.",
+            "Der Bau misst etwa 32 mal 30 Meter und war 12 Meter hoch. Die Sitzreihen ruhen auf großen Pfeilern, die das ansteigende Gelände künstlich schaffen. Die Orchestra, der runde Platz vor der Bühne, hat einen Marmorboden."
+          ]
+        }
+      ],
+      "themen": ["agora", "geschichte"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/odeon.jpg",
+          "etikett": "Sitzreihen",
+          "alt": "Halbrunde Marmorsitzreihen des Odeons mit Orchestra und Resten des Bühnenhauses",
+          "credit": "ftrc (Wikimedia Commons), 2021",
+          "lizenz": "CC BY-SA 2.0",
+          "link": "https://commons.wikimedia.org/wiki/File:A_view_of_the_pit.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/odeon-oben.jpg",
+          "etikett": "Von oben",
+          "alt": "Luftbild des Odeons zwischen Zypressen, im Hintergrund Stadt und Meer",
+          "credit": "ftrc (Wikimedia Commons), 2021",
+          "lizenz": "CC BY-SA 2.0",
+          "link": "https://commons.wikimedia.org/wiki/File:From_the_Odeon_to_the_sea.jpg",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/odeon.svg",
+          "alt": "Querschnitt durch ein überdachtes Odeon mit ansteigenden Sitzreihen und Bühnenhaus",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Dach, 14 Sitzreihen, rund 750 Plätze, Höhe 12 m nach kos.gr; Dachform und Bühnenhaus angenommen"
+        }
+      },
+      "quellen": [
+        "kos.gr, „Roman Odeon“ (nach 22. Ephorie für prähistorische und klassische Altertümer und V. Hatzivasileiou), abgerufen 17.10.2026 (2. Jh. n. Chr., überdacht, 31,9 × 29,9 m, 12 m hoch, 750 Plätze, 14 Reihen, 9 restauriert, musische Wettbewerbe, Ehrungen, Laurenzi 1929, Restaurierung 1994–1999, Hippokrates)",
+        "allovergreece.com, „Roman Odeon of Kos“, über Suchergebnis 17.10.2026 (möglicherweise über einem älteren Bouleuterion; *unsicher*)"
+      ]
+    },
+    {
+      "id": "casa-romana",
+      "nr": 12,
+      "bereich": "nachbar",
+      "titel": "Die Casa Romana",
+      "untertitel": "Ein römisches Stadthaus zum Hineingehen",
+      "lat": 36.890027,
+      "lon": 27.288499,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Gut 300 Meter östlich des Odeons, ebenfalls an der Grigoriou-V-Straße, steht die Casa Romana, das römische Haus. Hier können Sie erleben, wie ein reiches Stadthaus von innen wirkte, denn die Italiener haben es bis 1940 mit Dächern und Obergeschoss wieder aufgebaut. Die Casa Romana hat eigene Öffnungszeiten und Eintritt, dienstags ist sie geschlossen.",
+            "Das Haus stammt im Wesentlichen aus dem 3. Jahrhundert n. Chr. und steht über einem älteren hellenistischen Haus. Es hat 36 Räume um drei Höfe, jeder mit Brunnen oder Wasserbecken und Pflanzen. Um den größten Hof laufen Säulengänge über zwei Geschosse.",
+            "Achten Sie auf die Mosaiken: ein Leopard, der einen Hirsch jagt, ein Löwe, der eine Wildziege angreift, und am Becken des zweiten Hofes Delfine und eine Nereide, eine Meernymphe, die auf einem Seepferd reitet."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Nachgebaut, nicht nur erhalten",
+          "absaetze": [
+            "Die Casa Romana wurde nach dem Erdbeben von 1933 ausgegraben und von der italienischen Verwaltung bis 1940 vollständig rekonstruiert. Nach einer neuen, umfassenden Restaurierung ist sie seit dem Frühjahr 2015 wieder geöffnet. Was Sie sehen, ist also teils antik, teils ein Wiederaufbau des 20. Jahrhunderts. Die Wandmalereien stammen überwiegend aus dem 3. Jahrhundert n. Chr.",
+            "Gerade deshalb hilft das Haus beim Verstehen der Westzone: Dort sehen Sie Grundmauern und Böden, hier die Räume, wie sie gewirkt haben könnten."
+          ]
+        }
+      ],
+      "themen": ["wohnen-wasser"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/casa-hof.jpg",
+          "etikett": "Großer Hof",
+          "alt": "Großer Innenhof mit zweigeschossigen Säulengängen und einem Becken",
+          "credit": "Michael Schmalenstroer (Wikimedia Commons), 2018",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_(city)_-_Casa_Romana_16.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/casa-becken.jpg",
+          "etikett": "Becken",
+          "alt": "Kleiner Hof mit Wasserbecken, Säulen und Statuen",
+          "credit": "Michael Schmalenstroer (Wikimedia Commons), 2018",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_(city)_-_Casa_Romana_05.jpg",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/peristylhaus.svg",
+          "alt": "Grundriss-Zeichnung eines römischen Hauses mit Säulenhof, Speiseraum und Wohnräumen",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Haustyp nach der Casa Romana (discoveringkos.com); vereinfacht auf einen Hof, nicht der Grundriss dieses Hauses"
+        }
+      },
+      "quellen": [
+        "discoveringkos.com, „Casa Romana“ (P. Gkikas 2019), abgerufen 17.10.2026 (3. Jh. n. Chr., über hellenistischem Haus, 36 Räume, drei Höfe, Mosaiken, Wandmalereien, Rekonstruktion bis 1940, Wiedereröffnung Frühjahr 2015)",
+        "historyhit.com, „Casa Romana“, über Suchergebnis 17.10.2026 (Datierung spätes 2./frühes 3. Jh.; zwei rhodische Peristyle)",
+        "Kulturministerium, Öffnungszeiten Sommer 2026: 8–20 Uhr, dienstags geschlossen, über Suchergebnis 17.10.2026 (*vor Ort prüfen*)"
+      ]
+    },
+    {
+      "id": "dionysos-altar",
+      "nr": 13,
+      "bereich": "nachbar",
+      "titel": "Der Altar des Dionysos",
+      "untertitel": "Ein Altar im Stil von Pergamon",
+      "lat": 36.890835,
+      "lon": 27.28969,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Wenige Meter nordöstlich der Casa Romana, etwa drei Meter unter dem heutigen Straßenniveau, liegen die Reste eines Altars und eines Tempels für Dionysos, den Gott des Weines, des Rausches und des Theaters. Beide stammen aus dem 2. Jahrhundert v. Chr.; den Tempel datiert der Archäologe Stampolidis auf etwa 200 bis 190 v. Chr.",
+            "Der Altar war aus weißem und blaugrauem Marmor gebaut und mit einem Fries geschmückt. Dreizehn Ecksteine trugen Reliefs mit Szenen aus der Welt des Dionysos: seinem Gefolge aus Mänaden, Satyrn und Silenen, vielleicht auch Kämpfen gegen Gallier oder Amazonen. Die Deutung ist nicht sicher.",
+            "Zu sehen sind heute vor allem Fundamente. Die Reliefs selbst finden Sie an einem anderen Ort: Die Johanniter haben sie als Bausteine in ihr Kastell am Hafen eingemauert."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Pergamon auf Kos",
+          "absaetze": [
+            "Stil und Bildthemen erinnern an den berühmten Pergamonaltar, heute in Berlin. Man bringt den Bau deshalb mit den Attaliden in Verbindung, den Königen von Pergamon, die im 2. Jahrhundert v. Chr. großen Einfluss in der Ägäis hatten und sich als Sieger über die Gallier feiern ließen. Ob sie den Altar selbst gestiftet haben, ist offen.",
+            "Altar und Tempel wurden beim Erdbeben von 142 n. Chr. beschädigt und danach teilweise wiederhergestellt. Die Italiener gruben sie Anfang der 1930er Jahre aus."
+          ]
+        },
+        {
+          "ueberschrift": "Eine Spur ins Kastell",
+          "absaetze": [
+            "Wenn Sie den Begleiter zum Johanniterkastell kennen: Die antiken Steine dort stammen zum Teil von hier. Sechs Metopen des Altars sind im Kastell eingebaut. So hängen die beiden Rundgänge zusammen."
+          ]
+        }
+      ],
+      "themen": ["goetter"],
+      "bilder": {},
+      "quellen": [
+        "kos.gr, „Altar of Dionysos“, abgerufen 17.10.2026 (2. Jh. v. Chr., Tempel um 200–190 v. Chr. nach Stampolidis, weißer und blaugrauer Marmor, Fries, 13 Ecksteine, sechs Metopen im Kastell, Grabung frühe 1930er, Erdbeben 142 n. Chr., ca. 3 m unter Stadtniveau)",
+        "discoveringkos.com, „The altar of Dionysos“, über Suchergebnis 17.10.2026 (Lage nordöstlich der Casa Romana, Thiasos, Gallier/Amazonen, Attaliden; *Deutung unsicher*)"
+      ]
+    }
+  ]
+}

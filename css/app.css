@@ -1,0 +1,137 @@
+/* Gestaltung „B · Ägäis hell“ */
+
+/* Schriften (SIL Open Font License): Inter, Source Serif 4 – lokal für den Offline-Betrieb */
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 400 700; font-display: swap; src: url("../fonts/inter-latin.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 400 700; font-display: swap; src: url("../fonts/source-serif-4-latin.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-style: italic; font-weight: 400 700; font-display: swap; src: url("../fonts/source-serif-4-italic-latin.woff2") format("woff2"); }
+:root {
+  --blau: #1f5f8b;
+  --blau-hell: #eef4f8;
+  --blau-linie: #cfdde7;
+  --text: #14202b;
+  --text-2: #4d5e6b;
+  --linie: #e3e9ee;
+  --grund: #ffffff;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --leiste-h: 62px;
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--grund); color: var(--text); }
+body {
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  padding-bottom: calc(var(--leiste-h) + env(safe-area-inset-bottom));
+  overflow-x: hidden;
+}
+a { color: var(--blau); }
+img, svg { max-width: 100%; }
+
+.kopf {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; justify-content: space-between; align-items: center; gap: 8px;
+  padding: calc(8px + env(safe-area-inset-top)) 16px 8px;
+  background: rgba(255,255,255,.96); border-bottom: 1px solid var(--linie);
+  font-size: 13px;
+}
+.kopf-titel { font-weight: 600; letter-spacing: .02em; }
+.kopf-status { color: var(--text-2); text-align: right; }
+
+main { max-width: 680px; margin: 0 auto; outline: none; }
+.pad { padding: 16px; }
+
+.leiste {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
+  display: flex; justify-content: space-around;
+  height: calc(var(--leiste-h) + env(safe-area-inset-bottom));
+  padding-bottom: env(safe-area-inset-bottom);
+  background: #fff; border-top: 1px solid var(--linie);
+}
+.leiste a {
+  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-decoration: none; color: var(--text-2); font-size: 12px; font-weight: 600;
+}
+.leiste a .sym { font-size: 20px; line-height: 1.1; }
+.leiste a.aktiv { color: var(--blau); }
+
+/* Seiten */
+.kicker { margin: 0 0 4px; font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--blau); font-weight: 600; }
+h1 { font-size: 26px; line-height: 1.15; margin: 0 0 6px; font-weight: 600; }
+.untertitel { margin: 0 0 8px; color: var(--text-2); font-size: 14px; }
+.marke { display: inline-block; font-size: 12px; color: var(--blau); background: var(--blau-hell); border-radius: 10px; padding: 2px 8px; }
+.text { font-family: var(--serif); font-size: 17px; line-height: 1.55; }
+.text h2 { font-family: var(--sans); font-size: 18px; margin: 22px 0 6px; font-weight: 600; }
+.text p { margin: 0 0 12px; }
+.hinweis { color: var(--text-2); font-size: 15px; }
+
+/* Bildfläche mit Umschalter */
+.bildflaeche { position: relative; background: var(--blau-hell); }
+.bildflaeche figure { margin: 0; }
+.bildflaeche img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; background: var(--blau-hell); }
+.bildflaeche figcaption { font-size: 12px; color: var(--text-2); padding: 6px 16px 0; line-height: 1.4; }
+.umschalter {
+  position: absolute; right: 12px; top: 12px;
+  display: flex; border-radius: 20px; overflow: hidden; background: #fff; box-shadow: 0 1px 5px rgba(0,0,0,.3);
+}
+.umschalter button { border: 0; background: transparent; font: 600 13px var(--sans); padding: 8px 14px; color: var(--text); }
+.umschalter button.an { background: var(--blau); color: #fff; }
+
+/* Audio */
+.audio { display: flex; align-items: center; gap: 10px; background: var(--blau-hell); border-radius: 12px; padding: 10px 12px; margin: 12px 0; }
+.audio button { border: 0; border-radius: 50%; width: 40px; height: 40px; flex-shrink: 0; background: var(--blau); color: #fff; font-size: 15px; }
+.audio button.weiter { background: transparent; color: var(--blau); font-size: 18px; }
+.audio-info { font-size: 14px; color: var(--text-2); flex: 1; }
+
+/* Vertiefung, Themen-Schildchen, Quellen */
+details.mehr { border-top: 1px solid var(--linie); margin-top: 8px; padding-top: 4px; }
+details.mehr summary { cursor: pointer; font-weight: 600; color: var(--blau); padding: 10px 0; font-size: 16px; }
+.chips { margin: 18px 0 8px; }
+.chips-titel { display: block; font-size: 12px; color: var(--text-2); margin-bottom: 6px; }
+a.chip { display: inline-block; font-size: 14px; background: var(--blau-hell); color: var(--blau); border-radius: 14px; padding: 6px 12px; margin: 0 6px 8px 0; font-weight: 500; text-decoration: none; }
+.quellen { margin-top: 22px; border-top: 1px solid var(--linie); padding-top: 8px; }
+.quellen h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--text-2); margin: 6px 0; }
+.quellen ul { padding-left: 18px; margin: 0; font-size: 13px; color: var(--text-2); line-height: 1.45; }
+.quellen li { margin-bottom: 4px; }
+
+/* Listen (Rundgang, Themen) */
+.dauer { font-weight: 600; margin: 4px 0; }
+ol.stationen, ul.themenliste { list-style: none; padding: 0; margin: 16px 0; }
+ol.stationen li, ul.themenliste li { border-bottom: 1px solid var(--linie); }
+ol.stationen a, ul.themenliste a { display: flex; align-items: center; gap: 12px; padding: 12px 0; text-decoration: none; color: var(--text); }
+.nr { width: 32px; height: 32px; border-radius: 50%; background: var(--blau); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 600; font-size: 14px; flex-shrink: 0; }
+li.gesehen .nr { background: var(--blau-linie); color: var(--blau); }
+.was { flex: 1; display: flex; flex-direction: column; }
+.was small { color: var(--text-2); font-size: 13px; }
+.haken { color: var(--blau); font-weight: 700; }
+
+/* Lageplan */
+.plan-kopf { padding-bottom: 0; }
+.plan-rahmen { position: relative; margin: 8px 16px 0; border: 1px solid var(--linie); border-radius: 12px; overflow: hidden; background: #f7f5ef; }
+.plan-rahmen img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; }
+.plan-ebene { position: absolute; inset: 0; width: 100%; height: 100%; }
+.marker circle { fill: var(--blau); stroke: #fff; stroke-width: 2.5; }
+.marker text { fill: #fff; font: 600 13px var(--sans); pointer-events: none; }
+.marker.gesehen circle { fill: var(--blau-linie); }
+.marker.gesehen text { fill: var(--blau); }
+.standort-punkt { fill: #d9480f; stroke: #fff; stroke-width: 3; }
+.standort-kreis { fill: rgba(217, 72, 15, .15); stroke: rgba(217, 72, 15, .5); stroke-width: 1; }
+.standort-knopf { border: 0; background: var(--blau); color: #fff; font: 600 15px var(--sans); border-radius: 22px; padding: 10px 18px; }
+.standort-info { margin: 8px 0 0; min-height: 1.5em; }
+.plan-ausschnitt { overflow: auto; -webkit-overflow-scrolling: touch; }
+.plan-ausschnitt.gross { max-height: 70vh; }
+.plan-ausschnitt.gross .plan-rahmen { width: 200%; }
+.plan-lupe { margin-right: 8px; background: #fff; color: var(--blau); border: 1px solid var(--blau); }
+
+/* Passwortsperre */
+body.gesperrt .leiste, body.gesperrt .kopf { display: none; }
+body.gesperrt { padding-bottom: 0; }
+.sperre { max-width: 420px; margin: 12vh auto 0; display: flex; flex-direction: column; gap: 8px; }
+.sperre label { font-weight: 600; font-size: 14px; margin-top: 8px; }
+.sperre input { font: 17px var(--sans); padding: 12px; border: 1px solid var(--blau-linie); border-radius: 10px; }
+.sperre button { font: 600 16px var(--sans); padding: 12px; border: 0; border-radius: 10px; background: var(--blau); color: #fff; }
+.sperre-fehler { color: #b42318; min-height: 1.4em; margin: 0; font-size: 14px; }
+ol.stationen a.pause { display: block; gap: 0; margin: -4px 0 12px 44px; font-size: 14px; color: var(--blau); text-decoration: none; background: var(--blau-hell); border-radius: 10px; padding: 8px 12px; }

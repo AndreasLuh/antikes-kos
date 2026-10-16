@@ -1,0 +1,230 @@
+{
+    "stimme":  "onyx",
+    "modell":  "gpt-4o-mini-tts",
+    "abschnitte":  {
+                       "einfuehrung-1":  {
+                                             "datei":  "audio/einfuehrung-1.mp3",
+                                             "hash":  "f5bb64aebfd05052"
+                                         },
+                       "einfuehrung-2":  {
+                                             "datei":  "audio/einfuehrung-2.mp3",
+                                             "hash":  "ad2db7ed0822b678"
+                                         },
+                       "einfuehrung-3":  {
+                                             "datei":  "audio/einfuehrung-3.mp3",
+                                             "hash":  "94a1b7ba37a7a95e"
+                                         },
+                       "einfuehrung-4":  {
+                                             "datei":  "audio/einfuehrung-4.mp3",
+                                             "hash":  "a4017c4b0f5d8bec"
+                                         },
+                       "einfuehrung-5":  {
+                                             "datei":  "audio/einfuehrung-5.mp3",
+                                             "hash":  "016316fb4c10c3e6"
+                                         },
+                       "einfuehrung-6":  {
+                                             "datei":  "audio/einfuehrung-6.mp3",
+                                             "hash":  "bd793efe8edfdb31"
+                                         },
+                       "ort-eingang-kurz-1":  {
+                                                  "datei":  "audio/ort-eingang-kurz-1.mp3",
+                                                  "hash":  "6d48ebe5fa19cc95"
+                                              },
+                       "ort-eingang-mehr-1":  {
+                                                  "datei":  "audio/ort-eingang-mehr-1.mp3",
+                                                  "hash":  "ea891e1d970ac39c"
+                                              },
+                       "ort-eingang-mehr-2":  {
+                                                  "datei":  "audio/ort-eingang-mehr-2.mp3",
+                                                  "hash":  "30d84ef15b06df98"
+                                              },
+                       "ort-decumanus-kurz-1":  {
+                                                    "datei":  "audio/ort-decumanus-kurz-1.mp3",
+                                                    "hash":  "4ff2985e14bd4f58"
+                                                },
+                       "ort-decumanus-mehr-1":  {
+                                                    "datei":  "audio/ort-decumanus-mehr-1.mp3",
+                                                    "hash":  "4001721fb0145203"
+                                                },
+                       "ort-haus-europa-kurz-1":  {
+                                                      "datei":  "audio/ort-haus-europa-kurz-1.mp3",
+                                                      "hash":  "f8d2c983ca6956ec"
+                                                  },
+                       "ort-haus-europa-mehr-1":  {
+                                                      "datei":  "audio/ort-haus-europa-mehr-1.mp3",
+                                                      "hash":  "1bc9d487b5ed53d0"
+                                                  },
+                       "ort-haus-europa-mehr-2":  {
+                                                      "datei":  "audio/ort-haus-europa-mehr-2.mp3",
+                                                      "hash":  "7229184811c7eb79"
+                                                  },
+                       "ort-wohnviertel-kurz-1":  {
+                                                      "datei":  "audio/ort-wohnviertel-kurz-1.mp3",
+                                                      "hash":  "b7f60e6e7a6744e7"
+                                                  },
+                       "ort-wohnviertel-mehr-1":  {
+                                                      "datei":  "audio/ort-wohnviertel-mehr-1.mp3",
+                                                      "hash":  "7299ca1bea93f21d"
+                                                  },
+                       "ort-cardo-kurz-1":  {
+                                                "datei":  "audio/ort-cardo-kurz-1.mp3",
+                                                "hash":  "3c8685f14e9cc6d2"
+                                            },
+                       "ort-cardo-mehr-1":  {
+                                                "datei":  "audio/ort-cardo-mehr-1.mp3",
+                                                "hash":  "faed9dd207a3d830"
+                                            },
+                       "ort-nymphaeum-kurz-1":  {
+                                                    "datei":  "audio/ort-nymphaeum-kurz-1.mp3",
+                                                    "hash":  "dd6f9ec33c15671d"
+                                                },
+                       "ort-nymphaeum-mehr-1":  {
+                                                    "datei":  "audio/ort-nymphaeum-mehr-1.mp3",
+                                                    "hash":  "15062ad672347e88"
+                                                },
+                       "ort-westthermen-kurz-1":  {
+                                                      "datei":  "audio/ort-westthermen-kurz-1.mp3",
+                                                      "hash":  "32d242d495da58b5"
+                                                  },
+                       "ort-westthermen-mehr-1":  {
+                                                      "datei":  "audio/ort-westthermen-mehr-1.mp3",
+                                                      "hash":  "aa9cb1de6950e764"
+                                                  },
+                       "ort-xystos-kurz-1":  {
+                                                 "datei":  "audio/ort-xystos-kurz-1.mp3",
+                                                 "hash":  "a2a092b037f417b3"
+                                             },
+                       "ort-xystos-mehr-1":  {
+                                                 "datei":  "audio/ort-xystos-mehr-1.mp3",
+                                                 "hash":  "624c50abbc10c1f1"
+                                             },
+                       "ort-gymnasion-kurz-1":  {
+                                                    "datei":  "audio/ort-gymnasion-kurz-1.mp3",
+                                                    "hash":  "2f71df64b2e0d6a1"
+                                                },
+                       "ort-gymnasion-mehr-1":  {
+                                                    "datei":  "audio/ort-gymnasion-mehr-1.mp3",
+                                                    "hash":  "a4e8045dc457c8d7"
+                                                },
+                       "ort-stadion-kurz-1":  {
+                                                  "datei":  "audio/ort-stadion-kurz-1.mp3",
+                                                  "hash":  "22d3e2540f0f392f"
+                                              },
+                       "ort-stadion-mehr-1":  {
+                                                  "datei":  "audio/ort-stadion-mehr-1.mp3",
+                                                  "hash":  "c453f536b8f93e7a"
+                                              },
+                       "ort-odeon-kurz-1":  {
+                                                "datei":  "audio/ort-odeon-kurz-1.mp3",
+                                                "hash":  "544a5fb9106c7469"
+                                            },
+                       "ort-odeon-mehr-1":  {
+                                                "datei":  "audio/ort-odeon-mehr-1.mp3",
+                                                "hash":  "e333d24eebd2c00c"
+                                            },
+                       "ort-casa-romana-kurz-1":  {
+                                                      "datei":  "audio/ort-casa-romana-kurz-1.mp3",
+                                                      "hash":  "af98575c682d0921"
+                                                  },
+                       "ort-casa-romana-mehr-1":  {
+                                                      "datei":  "audio/ort-casa-romana-mehr-1.mp3",
+                                                      "hash":  "bf7bb39477e38254"
+                                                  },
+                       "ort-dionysos-altar-kurz-1":  {
+                                                         "datei":  "audio/ort-dionysos-altar-kurz-1.mp3",
+                                                         "hash":  "fbf0a1ba04a84f6d"
+                                                     },
+                       "ort-dionysos-altar-mehr-1":  {
+                                                         "datei":  "audio/ort-dionysos-altar-mehr-1.mp3",
+                                                         "hash":  "fd7f295d9bb406db"
+                                                     },
+                       "ort-dionysos-altar-mehr-2":  {
+                                                         "datei":  "audio/ort-dionysos-altar-mehr-2.mp3",
+                                                         "hash":  "bb7b46d1e4738308"
+                                                     },
+                       "thema-geschichte-1":  {
+                                                  "datei":  "audio/thema-geschichte-1.mp3",
+                                                  "hash":  "15a25a152eced541"
+                                              },
+                       "thema-geschichte-2":  {
+                                                  "datei":  "audio/thema-geschichte-2.mp3",
+                                                  "hash":  "c5af09c2ceb4f0b6"
+                                              },
+                       "thema-geschichte-3":  {
+                                                  "datei":  "audio/thema-geschichte-3.mp3",
+                                                  "hash":  "707bc0a4d7528e4b"
+                                              },
+                       "thema-geschichte-4":  {
+                                                  "datei":  "audio/thema-geschichte-4.mp3",
+                                                  "hash":  "ad1ac84cf4fc83db"
+                                              },
+                       "thema-geschichte-5":  {
+                                                  "datei":  "audio/thema-geschichte-5.mp3",
+                                                  "hash":  "3c1ef6600f54f9c1"
+                                              },
+                       "thema-agora-1":  {
+                                             "datei":  "audio/thema-agora-1.mp3",
+                                             "hash":  "c757730ce61732a1"
+                                         },
+                       "thema-agora-2":  {
+                                             "datei":  "audio/thema-agora-2.mp3",
+                                             "hash":  "fd937d52032693aa"
+                                         },
+                       "thema-agora-3":  {
+                                             "datei":  "audio/thema-agora-3.mp3",
+                                             "hash":  "7d5736fe701af653"
+                                         },
+                       "thema-goetter-1":  {
+                                               "datei":  "audio/thema-goetter-1.mp3",
+                                               "hash":  "34fe4753ff1922d4"
+                                           },
+                       "thema-goetter-2":  {
+                                               "datei":  "audio/thema-goetter-2.mp3",
+                                               "hash":  "18e4775bcb1323fe"
+                                           },
+                       "thema-goetter-3":  {
+                                               "datei":  "audio/thema-goetter-3.mp3",
+                                               "hash":  "0e3a5d7b1cf9768d"
+                                           },
+                       "thema-gymnasion-schule-1":  {
+                                                        "datei":  "audio/thema-gymnasion-schule-1.mp3",
+                                                        "hash":  "8b4ca630328f2dff"
+                                                    },
+                       "thema-gymnasion-schule-2":  {
+                                                        "datei":  "audio/thema-gymnasion-schule-2.mp3",
+                                                        "hash":  "2725c8b09681b66f"
+                                                    },
+                       "thema-gymnasion-schule-3":  {
+                                                        "datei":  "audio/thema-gymnasion-schule-3.mp3",
+                                                        "hash":  "ce8a035bb8f488b7"
+                                                    },
+                       "thema-gymnasion-schule-4":  {
+                                                        "datei":  "audio/thema-gymnasion-schule-4.mp3",
+                                                        "hash":  "787899cb8877f0a3"
+                                                    },
+                       "thema-wohnen-wasser-1":  {
+                                                     "datei":  "audio/thema-wohnen-wasser-1.mp3",
+                                                     "hash":  "fce90e6bafd51fcb"
+                                                 },
+                       "thema-wohnen-wasser-2":  {
+                                                     "datei":  "audio/thema-wohnen-wasser-2.mp3",
+                                                     "hash":  "63dddc614580e176"
+                                                 },
+                       "thema-wohnen-wasser-3":  {
+                                                     "datei":  "audio/thema-wohnen-wasser-3.mp3",
+                                                     "hash":  "41b102a016845c20"
+                                                 },
+                       "thema-arbeiten-1":  {
+                                                "datei":  "audio/thema-arbeiten-1.mp3",
+                                                "hash":  "a7b8843d2eef8b38"
+                                            },
+                       "thema-arbeiten-2":  {
+                                                "datei":  "audio/thema-arbeiten-2.mp3",
+                                                "hash":  "0aaca967b462a403"
+                                            },
+                       "thema-arbeiten-3":  {
+                                                "datei":  "audio/thema-arbeiten-3.mp3",
+                                                "hash":  "d405a09dd43fd79a"
+                                            }
+                   }
+}

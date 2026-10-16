@@ -1,0 +1,77 @@
+{
+  "titel": "Die antike Stadt Kos",
+  "planBreite": 600,
+  "planHoehe": 560,
+  "kontrollpunkte": [
+    { "lat": 36.8935000, "lon": 27.2840000, "x": 42.1, "y": 74.3 },
+    { "lat": 36.8935000, "lon": 27.2898000, "x": 557.9, "y": 74.3 },
+    { "lat": 36.8898000, "lon": 27.2840000, "x": 42.1, "y": 485.7 },
+    { "lat": 36.8898000, "lon": 27.2898000, "x": 557.9, "y": 485.7 }
+  ],
+  "ausspracheKI": "Griechische Namen wie im Neugriechischen bzw. mit deutscher Schulaussprache des Altgriechischen (Xystos, Gymnasion, Decumanus, Cardo, Nymphäon, Epheben, Gymnasiarch, Agoranomen, Synoikismos, Asklepieion, Philitas, Ptolemaios, Agia Anna, Grigoriou); italienische Namen italienisch (Luciano Laurenzi, Luigi Morricone, Casa Romana); Kos wie Koss.",
+  "rundgang": [
+    { "id": "eingang", "minuten": 6, "thema": "geschichte" },
+    { "id": "decumanus", "minuten": 6 },
+    { "id": "haus-europa", "minuten": 9 },
+    { "id": "wohnviertel", "minuten": 7, "thema": "wohnen-wasser" },
+    { "id": "cardo", "minuten": 6, "thema": "agora" },
+    { "id": "nymphaeum", "minuten": 8 },
+    { "id": "westthermen", "minuten": 7 },
+    { "id": "xystos", "minuten": 8 },
+    { "id": "gymnasion", "minuten": 7, "thema": "gymnasion-schule" },
+    { "id": "stadion", "minuten": 8 },
+    { "id": "odeon", "minuten": 9, "thema": "arbeiten" },
+    { "id": "casa-romana", "minuten": 12 },
+    { "id": "dionysos-altar", "minuten": 6, "thema": "goetter" }
+  ],
+  "einfuehrung": [
+    {
+      "ueberschrift": "Worum es geht",
+      "absaetze": [
+        "Dieser Begleiter führt Sie durch die antike Stadt Kos, genauer: durch die Westliche Ausgrabungszone mitten in der heutigen Stadt, mit dem Gymnasion und seinen Säulen, dem sogenannten Nymphäon und dem Haus der Europa. Dazu kommen das Stadion, das Odeon und, wenn Sie mögen, die Casa Romana und der Altar des Dionysos.",
+        "Zu jedem Ort gibt es einen kurzen Text zum Lesen oder Anhören, eine ausführlichere Vertiefung, Fotos und, wo möglich, eine schematische Rekonstruktion, wie es früher wohl aussah. Dazu kommen Themen, die an keinen Ort gebunden sind: die Geschichte der Stadt, das Leben auf der Agora, Götter und Tempel, das Gymnasion als Schule, Wohnen und Arbeiten.",
+        "Für den Rundgang sollten Sie eineinhalb bis zwei Stunden einplanen. Sie müssen aber nichts vollständig abarbeiten."
+      ]
+    },
+    {
+      "ueberschrift": "Ihr eigener Weg",
+      "absaetze": [
+        "Jedes Handy funktioniert für sich. Niemand muss auf die anderen warten, und niemand sieht, wo die anderen gerade sind.",
+        "Über die Leiste am unteren Bildschirmrand erreichen Sie vier Bereiche. *Plan* zeigt die antiken Stätten mit nummerierten Orten; ein Tipp auf eine Nummer öffnet den Ort. *Rundgang* schlägt eine Reihenfolge vor, ein Angebot, keine Pflicht. *Themen* enthält Hintergründe, die Sie jederzeit lesen können, etwa im Schatten unter den Bäumen der Grabung. *Einführung* führt zu dieser Seite zurück.",
+        "Auf den Seiten der Orte schalten Sie über dem Bild zwischen mehreren Fotos und der *Rekonstruktion* um, wo es eine gibt. Unter dem Kurztext öffnet *Mehr lesen* die Vertiefung. Die blauen Schildchen führen zu passenden Themen.",
+        "Was Sie gelesen oder angehört haben, wird mit einem Häkchen markiert. Diese Markierung bleibt nur auf Ihrem eigenen Gerät."
+      ]
+    },
+    {
+      "ueberschrift": "Vorlesen lassen",
+      "absaetze": [
+        "Jeder Text kann vorgelesen werden: Tippen Sie auf den runden Knopf mit dem Dreieck. Mit dem Pausenknopf halten Sie an, mit dem Pfeil rechts springen Sie zum nächsten Abschnitt. Während des Vorlesens bleibt der Bildschirm eingeschaltet.",
+        "Die Texte sind mit einer künstlich erzeugten Stimme aufgenommen, der KI-Stimme Onyx von OpenAI. Die Aufnahmen werden mit dem Begleiter gespeichert und funktionieren deshalb auch ohne Internet.",
+        "Fehlt eine Aufnahme, liest ersatzweise die eingebaute Sprachausgabe Ihres Handys vor. Ohne Internet braucht sie eine gespeicherte deutsche Stimme: auf Android in den Einstellungen unter Sprache bzw. Bedienungshilfen, Punkt Sprachausgabe; auf dem iPhone unter Einstellungen, Bedienungshilfen, Gesprochene Inhalte, Stimmen."
+      ]
+    },
+    {
+      "ueberschrift": "Einmal vorbereiten, dann offline",
+      "absaetze": [
+        "Bereiten Sie den Begleiter einmal im WLAN vor, zum Beispiel im Hotel. Legen Sie ihn *zuerst* auf den Startbildschirm Ihres Handys: auf dem iPhone in Safari das Teilen-Symbol tippen und *Zum Home-Bildschirm* wählen, auf Android in Chrome im Menü mit den drei Punkten *Zum Startbildschirm hinzufügen* oder *App installieren*.",
+        "Öffnen Sie den Begleiter danach über das neue Symbol, geben Sie dort das Passwort ein und warten Sie, bis oben rechts *Für offline bereit* erscheint. Dann sind alle Texte, Bilder, Aufnahmen und der Plan gespeichert, und unterwegs brauchen Sie kein Netz."
+      ]
+    },
+    {
+      "ueberschrift": "Ihr Standort im Plan",
+      "absaetze": [
+        "Im Plan können Sie Ihren Standort anzeigen lassen. Das Handy fragt dann einmal um Erlaubnis. Der Punkt ist auf einige Meter genau; der blasse Kreis um ihn zeigt die Ungenauigkeit. Norden ist im Plan oben.",
+        "Wichtig: Die Nummern der Orte im Plan sind *ungefähr* gesetzt, etwa auf 20 bis 30 Meter genau. Die genaue Lage der einzelnen Bauten innerhalb der Grabung ließ sich aus frei zugänglichen Plänen nicht sicher bestimmen. Orientieren Sie sich vor Ort zusätzlich an den Fotos.",
+        "Wer den Standort nicht freigeben möchte, kann den Plan genauso benutzen."
+      ]
+    },
+    {
+      "ueberschrift": "Gut zu wissen",
+      "absaetze": [
+        "Die Westliche Ausgrabungszone ist frei zugänglich und kostet keinen Eintritt; der Haupteingang liegt an der Grigoriou-V-Straße, fast gegenüber dem Odeon. Die Casa Romana hat eigene Öffnungszeiten und Eintritt und ist dienstags geschlossen. Bitte prüfen Sie das vor dem Besuch.",
+        "In der Grabung gibt es unebene Wege, lose Steine und wenig Schatten. Einzelne Bereiche können nach den Erdbebenschäden von 2017 abgesperrt sein.",
+        "Alle historischen Angaben sind mit Quellen belegt; die Liste steht am Ende jeder Seite. Wo die Forschung unsicher ist oder Quellen sich widersprechen, sagen die Texte das ausdrücklich. Die Rekonstruktionen sind vereinfachte Zeichnungen und keine exakten Bauaufnahmen."
+      ]
+    }
+  ]
+}

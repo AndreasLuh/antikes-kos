@@ -58,6 +58,7 @@ self.PRECACHE = [
   "audio/thema-wohnen-wasser-2.mp3",
   "audio/thema-wohnen-wasser-3.mp3",
   "content/audio.json",
+  "content/audio-andreas.json",
   "content/lexikon.json",
   "content/orte.json",
   "content/site.json",
@@ -115,4 +116,4 @@ self.PRECACHE = [
   "js/speech.js",
   "manifest.webmanifest"
 ];
-self.CACHE_VERSION = "46a8a3e83abd";
+self.CACHE_VERSION = "015d3ce09f3b";

@@ -94,6 +94,7 @@ self.PRECACHE = [
   "img/fotos/paris.jpg",
   "img/fotos/stadion.jpg",
   "img/fotos/thermen.jpg",
+  "img/fotos/vergleich-aegina.jpg",
   "img/fotos/wohnen.jpg",
   "img/fotos/xystos.jpg",
   "img/fotos/xystos-2.jpg",
@@ -103,6 +104,7 @@ self.PRECACHE = [
   "img/rekonstruktionen/odeon.svg",
   "img/rekonstruktionen/peristylhaus.svg",
   "img/rekonstruktionen/xystos.svg",
+  "img/rekonstruktionen/xystos-farbig.svg",
   "index.html",
   "js/app.js",
   "js/content.js",
@@ -116,4 +118,4 @@ self.PRECACHE = [
   "js/speech.js",
   "manifest.webmanifest"
 ];
-self.CACHE_VERSION = "015d3ce09f3b";
+self.CACHE_VERSION = "62d4ccf89d9b";

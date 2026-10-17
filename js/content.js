@@ -82,6 +82,8 @@ export function validateContent(c) {
     pruefeBild(o.bilder?.heute, wo, m, false);
     pruefeBild(o.bilder?.heute2, wo, m, false);
     pruefeBild(o.bilder?.rekonstruktion, wo, m, true);
+    pruefeBild(o.bilder?.farbig, wo, m, true);
+    pruefeBild(o.bilder?.vergleich, wo, m, false);
     pruefeQuellen(o.quellen, wo, m);
   }
 

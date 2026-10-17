@@ -466,9 +466,18 @@
           "lizenz": "eigene Zeichnung",
           "link": null,
           "basis": "Dorische Marmorsäulen und Nutzung nach discoveringkos.com und kos.gr; Dach, Höhen, Säulenabstände und Personen angenommen"
+        },
+        "farbig": {
+          "src": "img/rekonstruktionen/xystos-farbig.svg",
+          "alt": "Dieselbe Zeichnung mit angenommener Bemalung: blaue Triglyphen, rote Bänder, farbige Friese",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Bemalung angenommen nach dem Farbsystem griechischer Bauten, wie es an anderen Orten belegt ist (Triglyphen blau, Bänder rot); für Kos nicht belegt"
         }
       },
       "quellen": [
+        "Zur Farbfassung: Farbsystem dorischer Bauten (Triglyphen blau, Taenia rot) nach F. B. Tarbell, A History of Greek Art, Kap. 12 (ellopos.net, abgerufen 17.10.2026) und V. Brinkmann / U. Koch-Brinkmann, Bunte Götter; für Kos selbst ist keine Bemalung nachgewiesen, die Farben der Zeichnung sind eine Annahme",
         "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (Xystos 1. Hälfte 2. Jh. v. Chr., Training im Winter, 17 von vielleicht 81 Pfeilern aus weißem Inselmarmor, Umbau 3. Jh. n. Chr., Einsturz 469)",
         "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (Fund der 17 Säulen 1938)",
         "Lonely Planet, „Western Excavation Site“, über Suchergebnis 17.10.2026 (dorische Säulen)"
@@ -520,9 +529,17 @@
           "lizenz": "CC BY-SA 4.0",
           "link": "https://commons.wikimedia.org/wiki/File:Kos-Western_Archaeological_Site-Gymansion-11ESD.jpg",
           "basis": null
+        },
+        "vergleich": {
+          "src": "img/fotos/vergleich-aegina.jpg",
+          "alt": "Farbige Rekonstruktion der Front des dorischen Aphaia-Tempels auf Aegina (um 500 v. Chr.), Zeichnung des 19. Jahrhunderts",
+          "credit": "Abel Blouet u. a., Expédition scientifique de Morée, Bd. 3 (1838)",
+          "lizenz": "gemeinfrei",
+          "link": "https://commons.wikimedia.org/wiki/File:Reconstruction_drawing_of_the_Temple_of_Aphaea,_Aegina,_Greece_(01).jpg"
         }
       },
       "quellen": [
+        "Zur Farbfassung: Farbsystem dorischer Bauten (Triglyphen blau, Taenia rot) nach F. B. Tarbell, A History of Greek Art, Kap. 12 (ellopos.net, abgerufen 17.10.2026) und V. Brinkmann / U. Koch-Brinkmann, Bunte Götter; für Kos selbst ist keine Bemalung nachgewiesen, die Farben der Zeichnung sind eine Annahme",
         "discoveringkos.com, „The Western Archaeological Area“, abgerufen 17.10.2026 (größtes der drei Gymnasien, ca. 180 × 90 m, offener Säulenhof)",
         "kos.gr, „Ancient Gymnasium & Stadium“, abgerufen 17.10.2026 (eines von drei Gymnasien, 200 × 120 m, offener Peristylhof; *abweichende Maße*)",
         "Wikipedia (de), „Gymnasion“, abgerufen 17.10.2026 (Ablauf, Öl, Strigilis, Gymnasiarch)",

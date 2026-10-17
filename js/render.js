@@ -61,36 +61,44 @@ function quellen(liste) {
 
 function figur(bild, art) {
   const eigene = bild.lizenz === "eigene Zeichnung";
-  const nachweis = art !== "rekonstruktion"
-    ? `${bild.alt}. Foto: ${bild.credit} · ${bild.lizenz}`
-    : eigene
-      ? `Schematische Rekonstruktion, ${bild.basis}. ${bild.credit}`
-      : `Rekonstruktionsversuch: ${bild.credit}, ${bild.basis} · ${bild.lizenz}`;
-  return h("figure", {},
+  const nachweis = art === "farbig"
+    ? `Farbige Annahme: ${bild.basis}. ${bild.credit}`
+    : art === "vergleich"
+      ? `Zum Vergleich, nicht Kos: ${bild.alt}. ${bild.credit} · ${bild.lizenz}`
+      : art !== "rekonstruktion"
+        ? `${bild.alt}. Foto: ${bild.credit} · ${bild.lizenz}`
+        : eigene
+          ? `Schematische Rekonstruktion, ${bild.basis}. ${bild.credit}`
+          : `Rekonstruktionsversuch: ${bild.credit}, ${bild.basis} · ${bild.lizenz}`;
+  return h("figure", { class: art },
     h("img", { src: bild.src, alt: bild.alt, loading: "lazy", decoding: "async" }),
     h("figcaption", {}, nachweis, bild.link ? [" · ", h("a", { href: bild.link, target: "_blank", rel: "noopener" }, "Quelle")] : null));
 }
 
-// Ansichten: heute, heute2 (zweites Foto) und rekonstruktion; etikett benennt den Umschaltknopf
+// Ansichten: heute, heute2 (zweites Foto), rekonstruktion, farbig (angenommene Bemalung)
+// und vergleich (bunter Bau anderswo); etikett benennt den Umschaltknopf
 function bildflaeche(bilder) {
   const ansichten = [
     bilder?.heute && { bild: bilder.heute, art: "heute", etikett: bilder.heute.etikett || "Heute" },
     bilder?.heute2 && { bild: bilder.heute2, art: "heute", etikett: bilder.heute2.etikett || "Foto 2" },
     bilder?.rekonstruktion && { bild: bilder.rekonstruktion, art: "rekonstruktion", etikett: "Rekonstruktion" },
+    bilder?.farbig && { bild: bilder.farbig, art: "farbig", etikett: "In Farbe" },
+    bilder?.vergleich && { bild: bilder.vergleich, art: "vergleich", etikett: "Vergleich" },
   ].filter(Boolean);
   if (!ansichten.length) return null;
   const flaeche = h("div", { class: "bildflaeche" });
   const figuren = ansichten.map(a => figur(a.bild, a.art));
   flaeche.append(...figuren);
   if (ansichten.length > 1) {
-    const knoepfe = ansichten.map((a, i) => h("button", { type: "button", "aria-pressed": "false" }, a.etikett));
+    const knoepfe = ansichten.map(a => h("button", { type: "button", "aria-pressed": "false" }, a.etikett));
     const waehle = n => {
       figuren.forEach((f, i) => { f.hidden = i !== n; });
       knoepfe.forEach((b, i) => { b.classList.toggle("an", i === n); b.setAttribute("aria-pressed", String(i === n)); });
     };
     knoepfe.forEach((b, i) => b.addEventListener("click", () => waehle(i)));
     waehle(0);
-    flaeche.append(h("div", { class: "umschalter", role: "group", "aria-label": "Bild wählen" }, knoepfe));
+    // Ab vier Knöpfen passt die Leiste nicht mehr aufs Bild: dann unter dem Bild
+    flaeche.append(h("div", { class: ansichten.length > 3 ? "umschalter viele" : "umschalter", role: "group", "aria-label": "Bild wählen" }, knoepfe));
   }
   return flaeche;
 }

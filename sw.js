@@ -1,4 +1,4 @@
-// Version 62871adf188e
+// Version 46a8a3e83abd
 // Service Worker: speichert alle Dateien und liefert sie offline aus.
 importScripts("precache-list.js");
 const NAME = `antike-${self.CACHE_VERSION}`;

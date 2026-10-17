@@ -99,7 +99,6 @@ self.PRECACHE = [
   "img/plan.svg",
   "img/rekonstruktionen/decumanus.svg",
   "img/rekonstruktionen/latrine.svg",
-  "img/rekonstruktionen/Nymphäon), 3. Jh. n. Chr",
   "img/rekonstruktionen/odeon.svg",
   "img/rekonstruktionen/peristylhaus.svg",
   "img/rekonstruktionen/xystos.svg",
@@ -116,4 +115,4 @@ self.PRECACHE = [
   "js/speech.js",
   "manifest.webmanifest"
 ];
-self.CACHE_VERSION = "62871adf188e";
+self.CACHE_VERSION = "46a8a3e83abd";
